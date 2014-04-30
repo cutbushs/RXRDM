@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.2.2.2:1", "", "«Functional» 1. Maintain Opportunities", "EARoot/EA1/EA2/EA2/EA2/EA292.htm", "190.png", "714", "0", "", "Feature0","{B0D789F4-FDCD-4998-9665-D5070288A6D9}");
+tocTab[tocTab.length] = new Array("0.1.2.2.2:2", "", "«Functional» 3. Maintain Asset Programs", "EARoot/EA1/EA2/EA2/EA2/EA293.htm", "190.png", "715", "0", "", "Feature0","{5CA50E20-788B-4285-984C-004999B9F941}");
+tocTab[tocTab.length] = new Array("0.1.2.2.2:3", "", "«Functional» 4. Maintain Business Plan", "EARoot/EA1/EA2/EA2/EA2/EA294.htm", "190.png", "720", "0", "", "Feature0","{20B1BBA7-9DE8-46e6-BD4E-27F4485DDC88}");
+tocTab[tocTab.length] = new Array("0.1.2.2.2:4", "", "«Functional» 5. Obtain Approvals<br />", "EARoot/EA1/EA2/EA2/EA2/EA295.htm", "190.png", "713", "0", "", "Feature0","{A3D905FD-E013-4284-9734-0B38E6212D0B}");
+tocTab[tocTab.length] = new Array("0.1.2.2.2:5", "", "«Functional» 6. Publish Strategy & Plans", "EARoot/EA1/EA2/EA2/EA2/EA296.htm", "190.png", "717", "0", "", "Feature0","{3D39F1F4-46D2-443e-93E8-BDCEE3BF021F}");
+tocTab[tocTab.length] = new Array("0.1.2.2.2:6", "", "«Functional» 7. Monitor Strategy & Plans", "EARoot/EA1/EA2/EA2/EA2/EA297.htm", "190.png", "718", "0", "", "Feature0","{4BBA6881-9E95-433d-B5EE-8B31E3EA585C}");
+tocTab[tocTab.length] = new Array("0.1.2.2.2:7", "", "«Functional» 8. Assess Performance:", "EARoot/EA1/EA2/EA2/EA2/EA298.htm", "190.png", "719", "0", "", "Feature0","{85EC41BB-D8F1-4817-A375-EF9EC9DC8AF6}");

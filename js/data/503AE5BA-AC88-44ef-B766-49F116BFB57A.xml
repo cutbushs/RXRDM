@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.3.1.1:1", "", "CodeLists", "EARoot/EA1/EA3/EA1/EA1/EA940.htm", "175.png", "216", "0", "", "Logical diagram0","{1C7663FC-C6EB-46c1-B6C7-E6DD1A879D88}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:2", "", "ActionCode", "EARoot/EA1/EA3/EA1/EA1/EA942.htm", "247.png", "5962", "0", "", "Enumeration0","{14835EA6-4667-4383-9210-7B9871623C70}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:3", "", "BusinessScopeCode", "EARoot/EA1/EA3/EA1/EA1/EA943.htm", "5.png", "5963", "0", "", "Class0","{8263980C-408A-47f4-A140-3E1EFFBDD086}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:4", "", "DebugLevelCode", "EARoot/EA1/EA3/EA1/EA1/EA944.htm", "247.png", "5964", "0", "", "Enumeration0","{EAECCF07-15E0-4b01-B228-51002685F43F}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:5", "", "ImplementationCode", "EARoot/EA1/EA3/EA1/EA1/EA945.htm", "247.png", "5957", "0", "", "Enumeration0","{3CFAFD86-E380-41c3-8AB9-6384329997DE}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:6", "", "LanguageCode", "EARoot/EA1/EA3/EA1/EA1/EA946.htm", "5.png", "5956", "0", "", "Class0","{BCE72483-4462-4474-A9A1-E51912D8B6EC}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:7", "", "LogicalOperatorCode", "EARoot/EA1/EA3/EA1/EA1/EA947.htm", "247.png", "5959", "0", "", "Enumeration0","{3AF4CE6E-BF03-4aa0-AA44-402D8608EE93}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:8", "", "LogicalValue", "EARoot/EA1/EA3/EA1/EA1/EA948.htm", "247.png", "16885", "0", "", "Enumeration0","{723EA9BD-AFFA-4a8d-B46C-D33213F59FF0}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:9", "", "MonthValue", "EARoot/EA1/EA3/EA1/EA1/EA949.htm", "247.png", "16883", "0", "", "Enumeration0","{1E07E0C3-FAC9-4364-A802-36DB1F85BC80}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:10", "", "QueryOperatorCode", "EARoot/EA1/EA3/EA1/EA1/EA950.htm", "247.png", "5960", "0", "", "Enumeration0","{5D15C5F1-C824-4054-B685-73F9563986C1}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:11", "", "ResponseCode", "EARoot/EA1/EA3/EA1/EA1/EA951.htm", "247.png", "5961", "0", "", "Enumeration0","{FE778677-72A0-4ac9-9085-62842D5081AD}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:12", "", "SortDirectionCode", "EARoot/EA1/EA3/EA1/EA1/EA952.htm", "247.png", "5958", "0", "", "Enumeration0","{197CFB95-BB3F-4b7a-8ACD-EB00797B882E}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:13", "", "SyncActionCode", "EARoot/EA1/EA3/EA1/EA1/EA953.htm", "247.png", "5965", "0", "", "Enumeration0","{8B21C787-3C28-4664-ADED-A7D2746A36C5}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1:14", "", "AnyDateTimePointPrecisionCode", "EARoot/EA1/EA3/EA1/EA1/EA954.htm", "247.png", "25008", "0", "", "Enumeration0","{CA6A6953-52A3-4d9e-9F3E-E72335B0EF0C}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.3.6:1", "", "Party", "EARoot/EA1/EA3/EA6/EA1113.htm", "175.png", "1613", "0", "", "Logical diagram0","{D4949CA0-D354-4f2e-BFE6-4E74430B09EC}");
+tocTab[tocTab.length] = new Array("0.1.3.6.1", "1", "«ebo» irm.pty.Common", "EARoot/EA1/EA3/EA6/EA1115.htm", "4.png", "", "", "{6AC04760-E211-4899-A021-94112D94FD7C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.6.2", "1", "«ebo» irm.pty.ebo.CustomerInteraction", "EARoot/EA1/EA3/EA6/EA1116.htm", "4.png", "", "", "{7C0DB510-4009-4d0b-854C-AF2F0DFDFEFE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.6.3", "1", "«ebo» irm.pty.Reference", "EARoot/EA1/EA3/EA6/EA1117.htm", "4.png", "", "", "{1B79F04A-903F-4987-8655-A701EE5C113F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.6.4", "1", "«ebo» irm.pty.ebo.CustomerParty", "EARoot/EA1/EA3/EA6/EA1118.htm", "4.png", "", "", "{1999A37E-EC14-47ba-99A0-40A317B15B72}", "Package");

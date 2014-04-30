@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.3:1", "", "Canonical Data Model", "EARoot/EA3/EA3/EA2306.htm", "10.png", "371", "0", "", "Component0","{5BE1306D-9A8F-43a4-B634-2CC5504AFC57}");
+tocTab[tocTab.length] = new Array("0.3.3:2", "", "Data Architecture", "EARoot/EA3/EA3/EA2307.htm", "10.png", "349", "0", "", "Component0","{FEE83BA7-41DB-4c2f-BE8A-C8B70AFECD27}");
+tocTab[tocTab.length] = new Array("0.3.3:3", "", "Governance", "EARoot/EA3/EA3/EA2308.htm", "10.png", "364", "0", "", "Component0","{5A7E563D-9B83-405a-8B59-5C2A9E38DC41}");
+tocTab[tocTab.length] = new Array("0.3.3:4", "", "Meta Data Management", "EARoot/EA3/EA3/EA2309.htm", "10.png", "345", "0", "", "Component0","{63495C9A-A132-41d0-BE5B-67368E383F8D}");
+tocTab[tocTab.length] = new Array("0.3.3:5", "", "Principals and Policies", "EARoot/EA3/EA3/EA2310.htm", "10.png", "375", "0", "", "Component0","{20FB8B0B-0303-4776-B361-BD0CB5661CED}");
+tocTab[tocTab.length] = new Array("0.3.3:6", "", "Standards", "EARoot/EA3/EA3/EA2311.htm", "10.png", "328", "0", "", "Component0","{0460DDD7-71EF-4a9e-BEAA-842C4E617E98}");
+tocTab[tocTab.length] = new Array("0.3.3:7", "", "Technical Architecture", "EARoot/EA3/EA3/EA2312.htm", "10.png", "366", "0", "", "Component0","{B1A7DC6E-257A-4321-A1AF-2A91B5014F07}");

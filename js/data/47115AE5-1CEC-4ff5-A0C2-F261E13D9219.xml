@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.7.1.9.3:1", "", "PortTypes", "EARoot/EA7/EA1/EA9/EA3/EA2807.htm", "175.png", "1932", "0", "", "Logical diagram0","{94B232D6-F6B5-495d-8278-B87FB04B33BC}");
+tocTab[tocTab.length] = new Array("0.7.1.9.3:2", "", "«WSDLportType» brm.sm.cm.evs.CustomerInteraction.port", "EARoot/EA7/EA1/EA9/EA3/EA2809.htm", "8.png", "30749", "0", "", "Interface0","{1C6511DB-65E2-4fe4-9346-59948313A7DF}");

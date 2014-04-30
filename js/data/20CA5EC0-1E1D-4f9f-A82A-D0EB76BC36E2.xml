@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:1", "", "Batch Manager", "EARoot/EA1/EA2/EA6/EA6/EA3/EA817.htm", "10.png", "1025", "0", "", "Component0","{48232156-93FE-46b0-AC50-F4BB0B5FABA4}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:2", "", "«process» Bulk Extract", "EARoot/EA1/EA2/EA6/EA6/EA3/EA818.htm", "21.png", "1028", "0", "", "Activity0","{99138C54-6A66-433b-B5C5-6E9344A012B2}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:3", "", "«Functional» Entity Services", "EARoot/EA1/EA2/EA6/EA6/EA3/EA819.htm", "190.png", "1027", "0", "", "Feature0","{A6F2898A-E4FA-4b59-8D7F-D2908B4E9AD4}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:4", "", "ETL", "EARoot/EA1/EA2/EA6/EA6/EA3/EA820.htm", "10.png", "1023", "0", "", "Component0","{40B53B70-95E1-4eb4-9077-8AD1AD8A726F}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:5", "", "«process» Incremental", "EARoot/EA1/EA2/EA6/EA6/EA3/EA821.htm", "21.png", "1029", "0", "", "Activity0","{541B9B5A-C7A2-4df3-ACF0-A9F63AB5C1C7}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:6", "", "MetaData Services", "EARoot/EA1/EA2/EA6/EA6/EA3/EA822.htm", "10.png", "1026", "0", "", "Component0","{79BA6287-F019-4d16-A6AC-61588D9B69AA}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3:7", "", "Workflow Registry", "EARoot/EA1/EA2/EA6/EA6/EA3/EA823.htm", "10.png", "1024", "0", "", "Component0","{C2046A17-55D7-432c-8E21-CC3175734725}");

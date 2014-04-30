@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.4.4.1", "1", "«capability» Enterprise Reporting", "EARoot/EA1/EA2/EA4/EA4/EA449.htm", "4.png", "", "", "{B9717B2A-FB6D-4695-94C5-3F18776A4664}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.4.2", "", "«capability» Executive Reporting", "EARoot/EA1/EA2/EA4/EA4/EA450.htm", "4.png", "", "", "{8A7826EF-C50B-413e-B257-F6CDE8D0E6B1}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.4.3", "", "«capability» Operational Reporting", "EARoot/EA1/EA2/EA4/EA4/EA451.htm", "4.png", "", "", "{E6F09D14-E627-43a0-99BB-B3D4D6326817}", "Package");

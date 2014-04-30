@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Intellectual Property Business Process", "EARoot/EA1.htm", "30.png", "", "", "{F0E7FDB8-397E-4071-905C-3C37AAA6B6C5}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "«model» Use Case Model", "EARoot/EA2.htm", "29.png", "", "", "{0F730BCB-3230-449a-94AB-AC918DED6A46}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Domain Model", "EARoot/EA3.htm", "31.png", "", "", "{37FB4F77-FC61-41db-B834-D5E03A8F4F25}", "Package");

@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.7.2.34:1", "", "irm.svc.ebo.ClientService_1.0", "EARoot/EA7/EA2/EA34/EA3520.htm", "175.png", "1827", "0", "", "Logical diagram0","{AF64C496-02FA-4821-9DF0-A8CB920C0A6B}");
+tocTab[tocTab.length] = new Array("0.7.2.34:2", "", "«XSDcomplexType» ClientServiceActivityIdentificationType", "EARoot/EA7/EA2/EA34/EA3522.htm", "5.png", "29820", "0", "", "Class0","{B723DD3C-E904-47cf-A54D-ED8C45576833}");
+tocTab[tocTab.length] = new Array("0.7.2.34:3", "", "«XSDcomplexType» ClientServiceActivityType", "EARoot/EA7/EA2/EA34/EA3523.htm", "5.png", "29819", "0", "", "Class0","{A7F486D4-CA25-4290-A77D-B1A73A0CF5C2}");
+tocTab[tocTab.length] = new Array("0.7.2.34:4", "", "«XSDtopLevelElement» clientServiceEBO", "EARoot/EA7/EA2/EA34/EA3524.htm", "5.png", "29818", "0", "", "Class0","{BB645345-9609-4883-BAE3-E19AEB875C5A}");
+tocTab[tocTab.length] = new Array("0.7.2.34:5", "", "«XSDcomplexType» ClientServiceIdentificationType", "EARoot/EA7/EA2/EA34/EA3525.htm", "5.png", "29821", "0", "", "Class0","{7994C8DE-E284-4773-A131-2CA0AD9801D4}");
+tocTab[tocTab.length] = new Array("0.7.2.34:6", "", "«XSDcomplexType» ClientServiceRoleType", "EARoot/EA7/EA2/EA34/EA3526.htm", "5.png", "29822", "0", "", "Class0","{0A2AE21F-1FFC-4466-84A2-44989049F9DA}");
+tocTab[tocTab.length] = new Array("0.7.2.34:7", "", "«XSDcomplexType» ClientServiceType", "EARoot/EA7/EA2/EA34/EA3527.htm", "5.png", "29817", "0", "", "Class0","{4BCB4D80-715E-476f-B0A1-5031A6324541}");
+tocTab[tocTab.length] = new Array("0.7.2.34:8", "", "«XSDcomplexType» ClientServiceTypeChoiceType", "EARoot/EA7/EA2/EA34/EA3528.htm", "5.png", "29825", "0", "", "Class0","{7FB01EE9-56BC-4c9b-BD48-7D9909498946}");
+tocTab[tocTab.length] = new Array("0.7.2.34:9", "", "«XSDcomplexType» ClientServiceTypeGroupType", "EARoot/EA7/EA2/EA34/EA3529.htm", "5.png", "29826", "0", "", "Class0","{B01DD688-F678-4de8-B7B8-6870FA8AF809}");
+tocTab[tocTab.length] = new Array("0.7.2.34:10", "", "«XSDcomplexType» ClientServiceTypeIdentificationType", "EARoot/EA7/EA2/EA34/EA3530.htm", "5.png", "29827", "0", "", "Class0","{FA04D409-ABB4-4635-8E8E-1C49BDB5456B}");
+tocTab[tocTab.length] = new Array("0.7.2.34:11", "", "«XSDcomplexType» ClientServiceTypeSpecialisationType", "EARoot/EA7/EA2/EA34/EA3531.htm", "5.png", "29828", "0", "", "Class0","{0C15540D-3BD3-4a6d-AE41-ADB662C6E0BF}");
+tocTab[tocTab.length] = new Array("0.7.2.34:12", "", "«XSDcomplexType» ClientServiceTypeType", "EARoot/EA7/EA2/EA34/EA3532.htm", "5.png", "29824", "0", "", "Class0","{3BCA69CE-5290-4923-B786-15DFB6DA75DC}");
+tocTab[tocTab.length] = new Array("0.7.2.34:13", "", "«XSDcomplexType» Type", "EARoot/EA7/EA2/EA34/EA3533.htm", "5.png", "29823", "29824", "", "Class0","{D8DCC8FB-07A3-464c-AE59-8D8CB3BDD18A}");

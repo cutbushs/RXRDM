@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.5:1", "", "Batch Manager", "EARoot/EA3/EA5/EA2319.htm", "10.png", "353", "0", "", "Component0","{87E81417-A147-4e71-BBCB-95623873B270}");
+tocTab[tocTab.length] = new Array("0.3.5:2", "", "Exception Management", "EARoot/EA3/EA5/EA2320.htm", "10.png", "333", "0", "", "Component0","{E56321A3-6C91-4c51-A7BA-ABEEDD207E8A}");
+tocTab[tocTab.length] = new Array("0.3.5:3", "", "Monitoring Services", "EARoot/EA3/EA5/EA2321.htm", "10.png", "368", "0", "", "Component0","{418734BF-AEA7-46ae-B991-C253321A6579}");
+tocTab[tocTab.length] = new Array("0.3.5:4", "", "Scheduler", "EARoot/EA3/EA5/EA2322.htm", "10.png", "381", "0", "", "Component0","{C4BADC34-AA34-465c-A043-15FDA5951076}");
+tocTab[tocTab.length] = new Array("0.3.5:5", "", "Work List Management", "EARoot/EA3/EA5/EA2323.htm", "10.png", "334", "0", "", "Component0","{F4BEAE7D-C150-4f23-8E67-E27D627C6407}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.9.1.22:1", "", "MI with a prior Design Time Knowledge", "EARoot/EA9/EA1/EA22/EA3862.htm", "189.png", "1348", "0", "", "Analysis diagram0","{DE20BDD9-836D-428f-A15C-2A1E64EC91EA}");
+tocTab[tocTab.length] = new Array("0.9.1.22:2", "", "«Activity» Activity1", "EARoot/EA9/EA1/EA22/EA3864.htm", "21.png", "26234", "0", "", "Activity0","{53EA02AE-9716-442e-BF64-1E97CAB486F8}");
+tocTab[tocTab.length] = new Array("0.9.1.22:3", "", "«Activity» Activity2", "EARoot/EA9/EA1/EA22/EA3865.htm", "21.png", "26235", "0", "", "Activity0","{D3B618E8-0602-4d28-8415-7D7A8273A1B9}");

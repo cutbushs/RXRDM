@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>STL Pay Medical Expenses and claim gap from Medicare</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("STL Pay Medical Expenses and claim gap from Medicare", " : "))</script>  : Public   UseCase</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">12/08/2013 3:50:17 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">13/08/2013 4:49:49 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">cutbushs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{8106A9CF-D776-4243-BD08-A998E24614CF}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA2382.htm">Medicare Benefit Claims Process</a>, <a href="EA2388.htm">STL Pay Medical Expenses and claim gap from Medicare_TestCase</a></td>
+		</tr>
+	</table>
+	
+<table cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="ObjectSubTitle">
+			Related Diagrams:
+		</td>
+		<td>
+			
+		</td>
+	</tr>
+</table>
+<p></p><table cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="ObjectSubTitle">
+			Related Elements:
+		</td>
+		<td>
+			<a href="../../EA3/EA1/EA2293.htm">«application» Objective</a>, <a href="../../EA3/EA1/EA2301.htm">«module» STRATIS</a>
+		</td>
+	</tr>
+</table>
+<p></p>	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Scenario');" id="ScenarioTitle">Scenarios</li>
+			<li onClick="parent.toggleItem('TestCases');" id="TestCasesTitle">Test Cases</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+		<div class="ItemBody" id="ScenarioTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="90%" class="TableHeading">Scenario</td>
+					<td width="10%" class="TableHeading">Type</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">Detailed Path</td>
+					<td width="10%" class="TableRow">Basic Path</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario8946" onclick="parent.toggleDiv('detailsDIVScenario8946','DetailsImageScenario8946')" />Details:
+							<div id="detailsDIVScenario8946" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="StepImageScenario8946" onclick="parent.toggleDiv('stepDIVScenario8946','StepImageScenario8946')" />Steps:
+							<div id="stepDIVScenario8946" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Medical Practice sends Invoice to Administration Support <br />2. Administration Support records Invoice in Objective <br />3. Administration Support records Invoice in STRATIS <br />4. Administration Support creates payment in STRATIS <br />5. STRATIS pays Medical Practice (automatic payment run) <br />6. Administration Support requesst receipt from Medical Practice <br />7. Administration Support creates an action in STRATIS (PA-04)  <br />8. Medical Practice sends receipt to Administration Support <br />9. Administration Support records communication in STRATIS <br />10. Administration Support creates claim <br />11. Administration Support sends claim form to Medicare <br />12. Administration Support sends claim form to Objective <br />13. Administration Support creates an action in STRATIS (PA-04) <br />14. Medicare sends payment to Administration Support <br />15. Administration Support record payment in STRATIS <br /></div>
+							</div>
+						</div>
+						
+					</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">Basic Path</td>
+					<td width="10%" class="TableRow">Basic Path</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario8948" onclick="parent.toggleDiv('detailsDIVScenario8948','DetailsImageScenario8948')" />Details:
+							<div id="detailsDIVScenario8948" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="StepImageScenario8948" onclick="parent.toggleDiv('stepDIVScenario8948','StepImageScenario8948')" />Steps:
+							<div id="stepDIVScenario8948" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Medical Practice sends Invoice to STL <br />2. STL pays Invoice amount to Medical Practice <br />3. STL requests receipt from Medical Practice <br />4. Medical Practice send receipt to STL <br />5. STL create claim form <br />6. STL send claim gap form to Medicare <br />7. Medicare send Cheque to STL <br />8. STL bank payment <br /></div>
+							</div>
+						</div>
+						
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="TestCasesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="25%" class="TableHeading">Test</td>
+					<td width="7%" class="TableHeading">Class</td>
+					<td width="7%" class="TableHeading">Type</td>
+					<td width="7%" class="TableHeading">Status</td>
+					<td width="25%" class="TableHeading">Results</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Cheque is banked</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8950" onclick="parent.toggleDiv('detailsDIVTestCases8950','DetailsImageTestCases8950')" />Details:
+							<div id="detailsDIVTestCases8950" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; requests receipt from &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; ReceiptRequest&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; send receipt to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Receipt&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; create claim form&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;6. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; send claim gap form to &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;7. &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt; send Cheque to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;8. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; bank payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Cheque is banked&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Cheque received</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8951" onclick="parent.toggleDiv('detailsDIVTestCases8951','DetailsImageTestCases8951')" />Details:
+							<div id="detailsDIVTestCases8951" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; requests receipt from &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; ReceiptRequest&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; send receipt to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Receipt&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; create claim form&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;6. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; send claim gap form to &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;7. &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt; send Cheque to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Cheque received&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Claim form created</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8952" onclick="parent.toggleDiv('detailsDIVTestCases8952','DetailsImageTestCases8952')" />Details:
+							<div id="detailsDIVTestCases8952" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; requests receipt from &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; ReceiptRequest&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; send receipt to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Receipt&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; create claim form&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Claim form created&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Claim sent to Medicare</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8953" onclick="parent.toggleDiv('detailsDIVTestCases8953','DetailsImageTestCases8953')" />Details:
+							<div id="detailsDIVTestCases8953" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; requests receipt from &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; ReceiptRequest&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; send receipt to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Receipt&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; create claim form&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;6. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; send claim gap form to &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Claim sent to Medicare&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Medical Practice is payed invoice amount</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8954" onclick="parent.toggleDiv('detailsDIVTestCases8954','DetailsImageTestCases8954')" />Details:
+							<div id="detailsDIVTestCases8954" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Medical Practice is payed invoice amount&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>STL are invoiced</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8955" onclick="parent.toggleDiv('detailsDIVTestCases8955','DetailsImageTestCases8955')" />Details:
+							<div id="detailsDIVTestCases8955" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;STL are invoiced&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>STL receive receipt</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8956" onclick="parent.toggleDiv('detailsDIVTestCases8956','DetailsImageTestCases8956')" />Details:
+							<div id="detailsDIVTestCases8956" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; requests receipt from &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; ReceiptRequest&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; send receipt to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Receipt&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;STL receive receipt&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Basic Path</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 13/08/2013 4:51:56 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases8957" onclick="parent.toggleDiv('detailsDIVTestCases8957','DetailsImageTestCases8957')" />Details:
+							<div id="detailsDIVTestCases8957" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; sends Invoice to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Invoice&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; pays Invoice amount to &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; requests receipt from &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; ReceiptRequest&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. &lt;a href=&quot;javascript:top.guidLink(&#39;{6E87AAB6-A25A-4783-AF89-72A15B69ECDB}&#39;)&quot;Medical Practice&lt;/a&gt; send receipt to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Receipt&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; create claim form&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;6. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; send claim gap form to &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Claim&lt;br /&gt;&lt;/p&gt;&lt;p&gt;7. &lt;a href=&quot;javascript:top.guidLink(&#39;{E5533C36-E8E6-4c3f-8376-FB0789673B25}&#39;)&quot;Medicare&lt;/a&gt; send Cheque to &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;8. &lt;a href=&quot;javascript:top.guidLink(&#39;{56C46943-9598-478b-BEAF-4015548C9865}&#39;)&quot;STL&lt;/a&gt; bank payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;	&lt;u&gt;Uses:&lt;/u&gt;&#160;&#160; Payment&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Basic Path complete.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Use case ends.&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA1/EA2365.htm">Medical Practice</a></td>
+					<td width="10%" class="TableRow" valign="top">Actor</td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA1/EA2358.htm">Administration Support</a></td>
+					<td width="10%" class="TableRow" valign="top">Actor</td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA1/EA2366.htm">Medicare</a></td>
+					<td width="10%" class="TableRow" valign="top">Actor</td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA1/EA2372.htm">STL</a></td>
+					<td width="10%" class="TableRow" valign="top">Actor</td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

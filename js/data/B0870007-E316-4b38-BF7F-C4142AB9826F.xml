@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.7.2.31:1", "", "irm.pty.ebo.CustomerParty_1.0", "EARoot/EA7/EA2/EA31/EA3472.htm", "175.png", "1816", "0", "", "Logical diagram0","{C8D29B66-319C-49cc-9C08-D3B002EC78B5}");
+tocTab[tocTab.length] = new Array("0.7.2.31:2", "", "«XSDcomplexType» CustomerPartyAssetType", "EARoot/EA7/EA2/EA31/EA3474.htm", "5.png", "30569", "0", "", "Class0","{B4EC888A-FEB1-481f-834C-E58BCD733C70}");
+tocTab[tocTab.length] = new Array("0.7.2.31:3", "", "«XSDcomplexType» CustomerPartyBankAccountType", "EARoot/EA7/EA2/EA31/EA3475.htm", "5.png", "29736", "0", "", "Class0","{3372ED2E-D814-4c0b-AC50-6F07B16C12B8}");
+tocTab[tocTab.length] = new Array("0.7.2.31:4", "", "«XSDcomplexType» CustomerPartyClientServiceType", "EARoot/EA7/EA2/EA31/EA3476.htm", "5.png", "29737", "0", "", "Class0","{B9FA4D50-6F54-41fa-AAD9-47469449E27C}");
+tocTab[tocTab.length] = new Array("0.7.2.31:5", "", "«XSDtopLevelElement» customerPartyEBO", "EARoot/EA7/EA2/EA31/EA3477.htm", "5.png", "29735", "0", "", "Class0","{D7961ABF-C788-43e9-862A-28805FB93C8E}");
+tocTab[tocTab.length] = new Array("0.7.2.31:6", "", "«XSDcomplexType» CustomerPartyFundType", "EARoot/EA7/EA2/EA31/EA3478.htm", "5.png", "29738", "0", "", "Class0","{2F0D083E-A4C1-49b0-A146-7A360B63F91D}");
+tocTab[tocTab.length] = new Array("0.7.2.31:7", "", "«XSDcomplexType» CustomerPartyIncomeType", "EARoot/EA7/EA2/EA31/EA3479.htm", "5.png", "30570", "0", "", "Class0","{B07AF03C-785D-4ec6-9F07-C3CD8099EB62}");
+tocTab[tocTab.length] = new Array("0.7.2.31:8", "", "«XSDcomplexType» CustomerPartyType", "EARoot/EA7/EA2/EA31/EA3480.htm", "5.png", "29734", "0", "", "Class0","{56917F11-9B09-4d4a-9FA7-A2E4E31AE10A}");
+tocTab[tocTab.length] = new Array("0.7.2.31:9", "", "«XSDcomplexType» Type", "EARoot/EA7/EA2/EA31/EA3481.htm", "5.png", "29733", "29734", "", "Class0","{5BB1867C-3034-4a08-8D37-400706A915FC}");

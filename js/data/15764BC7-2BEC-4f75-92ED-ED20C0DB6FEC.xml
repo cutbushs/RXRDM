@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.2.1.1", "", "Acquire Asset (L02)", "EARoot/EA1/EA2/EA5/EA2/EA1/EA508.htm", "4.png", "", "", "{90F5D9F6-6415-477d-B279-2DCC1A1A6A50}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.1.2", "", "Divest Asset", "EARoot/EA1/EA2/EA5/EA2/EA1/EA509.htm", "4.png", "", "", "{8FA650AC-9CA9-4b55-9ADB-58C57A02505E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.1.3", "", "Evaluate / Value Asset (L01)", "EARoot/EA1/EA2/EA5/EA2/EA1/EA510.htm", "4.png", "", "", "{89C202A2-17DE-47fd-9003-34A4ED175EE3}", "Package");

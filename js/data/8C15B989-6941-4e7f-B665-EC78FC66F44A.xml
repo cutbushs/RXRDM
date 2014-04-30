@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3:1", "", "WA Work the Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA3/EA529.htm", "178.png", "98", "0", "", "Component diagram0","{F2E86DC5-CFF1-4bce-91FE-3AFDD2998A40}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3:2", "", "«Functional» T0301 Initiate Work on Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA3/EA531.htm", "190.png", "890", "0", "", "Feature0","{0ACD280C-7902-408b-B58C-78CF6DCBF4D7}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3:3", "", "«Functional» T0302 Monitor Work on Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA3/EA532.htm", "190.png", "887", "0", "", "Feature0","{C3980C41-A398-40dc-ADE6-0638322530B4}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3:4", "", "«Functional» T0303 Monitor Use of Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA3/EA533.htm", "190.png", "889", "0", "", "Feature0","{41C2B1DA-7840-4c47-950E-76B8F4387C60}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3:5", "", "«Functional» T0304 Report on Use and Status of Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA3/EA534.htm", "190.png", "888", "0", "", "Feature0","{476045A2-1FEC-4e74-8AD7-3A010B998BB5}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3:6", "", "«Functional» T0305 Review & Accept Asset Work", "EARoot/EA1/EA2/EA5/EA2/EA2/EA3/EA535.htm", "190.png", "891", "0", "", "Feature0","{4EC3EEE6-26A8-4efa-8211-0BF920E5F4FB}");

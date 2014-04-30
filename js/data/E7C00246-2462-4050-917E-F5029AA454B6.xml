@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.9.1.19:1", "", "Synchronisation", "EARoot/EA9/EA1/EA19/EA3847.htm", "189.png", "1337", "0", "", "Analysis diagram0","{1C72A50D-EACF-4dbe-8C0F-3B0F52452DBB}");
+tocTab[tocTab.length] = new Array("0.9.1.19:2", "", "«Gateway» ", "EARoot/EA9/EA1/EA19/EA3849.htm", "56.png", "26160", "0", "", "Decision0","{B33AE357-CB65-409b-BAB5-4BE3E1217726}");
+tocTab[tocTab.length] = new Array("0.9.1.19:3", "", "«Activity» Activity1", "EARoot/EA9/EA1/EA19/EA3850.htm", "21.png", "26158", "0", "", "Activity0","{78784D62-28AA-4d0b-992D-8BED55D638F9}");
+tocTab[tocTab.length] = new Array("0.9.1.19:4", "", "«Activity» Activity2", "EARoot/EA9/EA1/EA19/EA3851.htm", "21.png", "26159", "0", "", "Activity0","{9EBD37A4-CDC0-4d52-9A41-6D8BDC8FD7EC}");
+tocTab[tocTab.length] = new Array("0.9.1.19:5", "", "«Activity» Activity3", "EARoot/EA9/EA1/EA19/EA3852.htm", "21.png", "26161", "0", "", "Activity0","{D33AD3AE-E6FB-4ae9-9DD5-9F813E8CD120}");

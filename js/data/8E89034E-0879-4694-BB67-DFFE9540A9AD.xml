@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.1:1", "", "«Functional» Project Management", "EARoot/EA1/EA2/EA5/EA1/EA470.htm", "190.png", "844", "0", "", "Feature0","{B8724639-DDEF-4a0e-8F97-BCD383453E03}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1:2", "", "«Functional» Project Scheduling", "EARoot/EA1/EA2/EA5/EA1/EA475.htm", "190.png", "837", "844", "", "Feature0","{51743F46-FEDB-4c52-985F-3096ED0FBAC5}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1:3", "", "«Functional» Resource Management", "EARoot/EA1/EA2/EA5/EA1/EA476.htm", "190.png", "846", "844", "", "Feature0","{FD9675AF-6AAE-4fe2-BB42-831454880E31}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.1", "1", "S01 Plan Activities", "EARoot/EA1/EA2/EA5/EA1/EA471.htm", "4.png", "", "", "{6228FF5D-1132-4197-B677-E7027D78B0A5}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.2", "1", "S02 Schedule Activities", "EARoot/EA1/EA2/EA5/EA1/EA472.htm", "4.png", "", "", "{F7A9F48A-D637-44ca-9CED-2E67C7EC2CBD}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.3", "1", "S03 Manage Activity Execution", "EARoot/EA1/EA2/EA5/EA1/EA473.htm", "4.png", "", "", "{1FDCBF31-450F-4589-ABFF-E565CFB8216E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.4", "1", "S04 Analyze Activity Performance", "EARoot/EA1/EA2/EA5/EA1/EA474.htm", "4.png", "", "", "{189329BF-3A3C-4dc5-BC14-E31EB072E0EE}", "Package");

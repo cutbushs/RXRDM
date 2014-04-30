@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.2:1", "", "Business Objects", "EARoot/EA1/EA2/EA35.htm", "189.png", "6", "0", "", "Analysis diagram0","{F8A0800A-5FD3-4d9e-BCBA-A1E6B265977D}");
+tocTab[tocTab.length] = new Array("0.1.2:2", "", "«document» Client Document template", "EARoot/EA1/EA2/EA37.htm", "25.png", "72", "0", "", "Object0","{B5E159D1-3740-4563-A409-E1C28B90E35A}");
+tocTab[tocTab.length] = new Array("0.1.2:3", "", "Client Logo, Fonts, Colours", "EARoot/EA1/EA2/EA38.htm", "25.png", "75", "0", "", "Object0","{CCF7B043-4855-4a3e-9E72-6A90A6C81B1F}");
+tocTab[tocTab.length] = new Array("0.1.2:4", "", "«document» Client Specific Reference Architecture version 0", "EARoot/EA1/EA2/EA39.htm", "25.png", "28", "0", "", "Object0","{1A1A6ABB-86AD-4fc2-9BC3-1A22EF3425BA}");
+tocTab[tocTab.length] = new Array("0.1.2:5", "", "«document» Client Specific Reference Architecture version x + 1", "EARoot/EA1/EA2/EA40.htm", "25.png", "90", "0", "", "Object0","{EC52CB5C-4451-4f1d-B77B-D2B74D1E1599}");
+tocTab[tocTab.length] = new Array("0.1.2:6", "", "«entity» Confluence", "EARoot/EA1/EA2/EA41.htm", "25.png", "88", "0", "", "Object0","{CAD115A2-BD74-44f8-95D2-AEB77E529CDA}");
+tocTab[tocTab.length] = new Array("0.1.2:7", "", "«entity» DropBox", "EARoot/EA1/EA2/EA42.htm", "25.png", "87", "0", "", "Object0","{67BAD1A5-CA8D-458a-87D9-56E39C1502F0}");
+tocTab[tocTab.length] = new Array("0.1.2:8", "", "«entity» Google Drive", "EARoot/EA1/EA2/EA43.htm", "25.png", "86", "0", "", "Object0","{BF4A0130-F9CC-4eff-ABC8-FEE8804EF820}");
+tocTab[tocTab.length] = new Array("0.1.2:9", "", "«document» Like-Industry Client Reference Architecture", "EARoot/EA1/EA2/EA44.htm", "25.png", "76", "0", "", "Object0","{F3576C9B-2D80-4b1f-A73F-015E3C64A84A}");
+tocTab[tocTab.length] = new Array("0.1.2:10", "", "Proposed changes to RxR Reference Architecture", "EARoot/EA1/EA2/EA45.htm", "25.png", "74", "0", "", "Object0","{88E5DD2D-B3E2-4f3d-B235-C73E9ACA5448}");
+tocTab[tocTab.length] = new Array("0.1.2:11", "", "«document» RxR Basic Template", "EARoot/EA1/EA2/EA46.htm", "25.png", "73", "0", "", "Object0","{25C39C1A-64B1-4bef-BB8A-B607B969499C}");
+tocTab[tocTab.length] = new Array("0.1.2:12", "", "RxR Reference Architecture Change Log", "EARoot/EA1/EA2/EA47.htm", "25.png", "106", "0", "", "Object0","{57C06206-2381-4e26-8A6F-EB85FDF40173}");
+tocTab[tocTab.length] = new Array("0.1.2:13", "", "«document» RxR Reference Architecture Version X", "EARoot/EA1/EA2/EA48.htm", "25.png", "29", "0", "", "Object0","{A263BD40-2AE5-4daa-A1E3-D2219FCC475B}");
+tocTab[tocTab.length] = new Array("0.1.2:14", "", "«document» RxR Reference Architecture Version X + 1", "EARoot/EA1/EA2/EA49.htm", "25.png", "79", "0", "", "Object0","{0EAEF068-5EBE-4bc8-AB47-336839366399}");

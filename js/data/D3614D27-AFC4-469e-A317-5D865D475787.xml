@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.2.4:1", "", "Outcome Improvement", "EARoot/EA1/EA2/EA4/EA422.htm", "178.png", "104", "0", "", "Component diagram0","{40ADF9E9-2337-4ff1-993A-E1127DC7C6B7}");
+tocTab[tocTab.length] = new Array("0.1.2.4:2", "", "Management Decision Making", "EARoot/EA1/EA2/EA4/EA424.htm", "10.png", "499", "0", "", "Component0","{D5418C78-4DB2-4d5e-A3B5-A677A5656ED6}");
+tocTab[tocTab.length] = new Array("0.1.2.4.1", "", "«capability» Business Case Management", "EARoot/EA1/EA2/EA4/EA425.htm", "4.png", "", "", "{3F4C4FBD-A7A9-4b91-8437-32959627B23C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.2", "1", "«capability» Design, Develop and Deliver Solutions", "EARoot/EA1/EA2/EA4/EA426.htm", "4.png", "", "", "{E00B2E86-E812-4c70-B7EE-42F06D496238}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.3", "1", "«SubDomain» Enterprise Architecture", "EARoot/EA1/EA2/EA4/EA427.htm", "4.png", "", "", "{81EFCFD1-E4F7-4473-A304-4E3F6FB89C9E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.4", "1", "«SubDomain» Reporting", "EARoot/EA1/EA2/EA4/EA428.htm", "4.png", "", "", "{17EBD359-5C83-4397-8EA3-ECFFDAEAC13C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.5", "", "«capability» Technology Intelligence", "EARoot/EA1/EA2/EA4/EA429.htm", "4.png", "", "", "{B9857EA9-44E8-43fc-85BC-EB1870369694}", "Package");

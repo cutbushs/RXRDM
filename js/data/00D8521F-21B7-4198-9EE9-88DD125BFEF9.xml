@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Claim Workflow", "EARoot/EA2/EA1483.htm", "4.png", "", "", "{DB15B185-6AAE-4c68-BEE3-CBA734243FDF}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Business Context", "EARoot/EA2/EA1484.htm", "4.png", "", "", "{69070BF9-55A2-4f5f-B732-EDEC370B8F88}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "Business Workflows V.01", "EARoot/EA2/EA1485.htm", "4.png", "", "", "{868059AA-C405-4a22-BEBA-800C50A8F29F}", "Package");
+tocTab[tocTab.length] = new Array("0.2.4", "1", "Business Workflows V1.0", "EARoot/EA2/EA1486.htm", "4.png", "", "", "{023B522C-E779-4553-8BFC-FD60E08A1564}", "Package");

@@ -1,0 +1,490 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Create Form</title>
+<link href="../../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Create Form", " : "))</script>  : Public   UseCase</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">5/11/2013 9:38:17 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">15/11/2013 5:08:57 PM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">cutbushs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{FA9C6F58-E49E-4cd1-A8F0-D2E7BFEB118C}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA178.htm">Create Form</a>, <a href="EA182.htm">Create Form_TestCase</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">In the instance of a PDF e-form (or similar) where the meta data is held within the form itself, an automated analysis function should be invoked to infer any required meta data. (Note that this can be overridden at a later point).&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;The meta data should be provided with a unique identification number, and persisted. (The persistence method is up to the implementor, but could involve the use of a database or file store).&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;The form and overlay are initially related, however can be completely decoupled. &lt;br /&gt;&lt;/p&gt;</div>
+
+<table cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="ObjectSubTitle">
+			Related Diagrams:
+		</td>
+		<td>
+			
+		</td>
+	</tr>
+</table>
+<p></p><table cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="ObjectSubTitle">
+			Related Elements:
+		</td>
+		<td>
+			<a href="EA221.htm">«database» Form Register</a>
+		</td>
+	</tr>
+</table>
+<p></p>	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('Scenario');" id="ScenarioTitle">Scenarios</li>
+			<li onClick="parent.toggleItem('TestCases');" id="TestCasesTitle">Test Cases</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
+		</ul>
+		<div class="ItemBody" id="ScenarioTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="90%" class="TableHeading">Scenario</td>
+					<td width="10%" class="TableHeading">Type</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">Basic Path</td>
+					<td width="10%" class="TableRow">Basic Path</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario174" onclick="parent.toggleDiv('detailsDIVScenario174','DetailsImageScenario174')" />Details:
+							<div id="detailsDIVScenario174" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="StepImageScenario174" onclick="parent.toggleDiv('stepDIVScenario174','StepImageScenario174')" />Steps:
+							<div id="stepDIVScenario174" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Middleware analysis document for meta data, including document ID, type, overlay method and form meta data should it exist <br />2. Middleware validates that the document is of a type that can be used <br />3. Middleware creates the document in a Form Register <br />4. Check if document includes form metadata <br />5. Results are written to a notification file and dropped in the document interchange <br /></div>
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario175" onclick="parent.toggleDiv('detailsDIVScenario175','DetailsImageScenario175')" />Exceptions:				<div id="detailsDIVScenario175" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1a. Document metadata is unavailable (at End)<br />2a. Document is invalid (at End)<br />3a. An error occurs writing information to the database (at End)<br />4a. DocumentIncludesMetadata (at 5)<br /></div>
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">DocumentIncludesMetadata</td>
+					<td width="10%" class="TableRow">Alternate</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario177" onclick="parent.toggleDiv('detailsDIVScenario177','DetailsImageScenario177')" />Details:
+							<div id="detailsDIVScenario177" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="StepImageScenario177" onclick="parent.toggleDiv('stepDIVScenario177','StepImageScenario177')" />Steps:
+							<div id="stepDIVScenario177" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Middleware registers metadata in database <br /></div>
+							</div>
+						</div>
+						
+					</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">Document metadata is unavailable</td>
+					<td width="10%" class="TableRow">Exception</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario179" onclick="parent.toggleDiv('detailsDIVScenario179','DetailsImageScenario179')" />Details:
+							<div id="detailsDIVScenario179" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="StepImageScenario179" onclick="parent.toggleDiv('stepDIVScenario179','StepImageScenario179')" />Steps:
+							<div id="stepDIVScenario179" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Middleware collates error information <br />2. Middleware writes results to a log file. <br /></div>
+							</div>
+						</div>
+						
+					</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">Document is invalid</td>
+					<td width="10%" class="TableRow">Alternate</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario181" onclick="parent.toggleDiv('detailsDIVScenario181','DetailsImageScenario181')" />Details:
+							<div id="detailsDIVScenario181" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="StepImageScenario181" onclick="parent.toggleDiv('stepDIVScenario181','StepImageScenario181')" />Steps:
+							<div id="stepDIVScenario181" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Middleware collates error information <br />2. Middleware writes results to a log file. <br /></div>
+							</div>
+						</div>
+						
+					</td>
+				</tr>
+				<tr>
+					<td width="90%" class="TableRow">An error occurs writing information to the database</td>
+					<td width="10%" class="TableRow">Exception</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario183" onclick="parent.toggleDiv('detailsDIVScenario183','DetailsImageScenario183')" />Details:
+							<div id="detailsDIVScenario183" class="DetailsDiv" >
+							
+							</div>
+						</div>
+						<div class="StrucuturedDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="StepImageScenario183" onclick="parent.toggleDiv('stepDIVScenario183','StepImageScenario183')" />Steps:
+							<div id="stepDIVScenario183" class="StrucuturedDiv" >
+							<div class="ObjectDetailsNotes">1. Middleware collates error information <br />2. Middleware records error information in a log file <br /></div>
+							</div>
+						</div>
+						
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="TestCasesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="25%" class="TableHeading">Test</td>
+					<td width="7%" class="TableHeading">Class</td>
+					<td width="7%" class="TableHeading">Type</td>
+					<td width="7%" class="TableHeading">Status</td>
+					<td width="25%" class="TableHeading">Results</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Document metadata exists</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases185" onclick="parent.toggleDiv('detailsDIVTestCases185','DetailsImageTestCases185')" />Details:
+							<div id="detailsDIVTestCases185" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Document metadata exists&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>An error occurs writing information to the database</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases186" onclick="parent.toggleDiv('detailsDIVTestCases186','DetailsImageTestCases186')" />Details:
+							<div id="detailsDIVTestCases186" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; validates that the document is of a type that can be used&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; creates the document in a &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Exception:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;When [An error occurs writing information to the database]&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3a_1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; collates error information&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3a_2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; records error information in a log file&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;An error occurs writing information to the database complete.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Use case ends.&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Basic Path</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases187" onclick="parent.toggleDiv('detailsDIVTestCases187','DetailsImageTestCases187')" />Details:
+							<div id="detailsDIVTestCases187" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; validates that the document is of a type that can be used&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; creates the document in a &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4. Check if document includes form metadata&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. Results are written to a notification file and dropped in the document interchange&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Basic Path complete.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Use case ends.&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Document is invalid</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases188" onclick="parent.toggleDiv('detailsDIVTestCases188','DetailsImageTestCases188')" />Details:
+							<div id="detailsDIVTestCases188" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Alternate:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;When [Document is invalid]&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2a_1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; collates error information&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2a_2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; writes results to a log file.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Document is invalid complete.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Use case ends.&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Document is Valid</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases189" onclick="parent.toggleDiv('detailsDIVTestCases189','DetailsImageTestCases189')" />Details:
+							<div id="detailsDIVTestCases189" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; validates that the document is of a type that can be used&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Document is Valid&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Document metadata is unavailable</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases190" onclick="parent.toggleDiv('detailsDIVTestCases190','DetailsImageTestCases190')" />Details:
+							<div id="detailsDIVTestCases190" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Exception:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;When [Document metadata is unavailable]&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1a_1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; collates error information&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1a_2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; writes results to a log file.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Document metadata is unavailable complete.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Use case ends.&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>DocumentIncludesMetadata_Complete Path</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases191" onclick="parent.toggleDiv('detailsDIVTestCases191','DetailsImageTestCases191')" />Details:
+							<div id="detailsDIVTestCases191" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; validates that the document is of a type that can be used&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; creates the document in a &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Alternate:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;When [DocumentIncludesMetadata]&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4a_1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; registers metadata in &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Continues:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;5. Results are written to a notification file and dropped in the document interchange&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Use case ends.&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Form metadata exists</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases192" onclick="parent.toggleDiv('detailsDIVTestCases192','DetailsImageTestCases192')" />Details:
+							<div id="detailsDIVTestCases192" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; validates that the document is of a type that can be used&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; creates the document in a &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Alternate:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;When [DocumentIncludesMetadata]&lt;br /&gt;&lt;/p&gt;&lt;p&gt;4a_1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; registers metadata in &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Form metadata exists&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="25%" class="TableRow"><span class="Tab"><strong>Document is stored</strong></span></td>
+					<td width="7%" class="TableRow">Scenario</td>
+					<td width="7%" class="TableRow">Standard</td>
+					<td width="7%" class="TableRow">Not Run</td>
+					<td width="25%" class="TableRow">
+						<strong>Run Date:</strong> 8/11/2013 2:19:39 PM<br />
+						<strong>Run By:</strong> &nbsp;<br />
+						<strong>Checked:</strong> &nbsp;
+					</td>
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="5">
+						<div class="DetailsDivParent"><img src="../../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageTestCases193" onclick="parent.toggleDiv('detailsDIVTestCases193','DetailsImageTestCases193')" />Details:
+							<div id="detailsDIVTestCases193" class="DetailsDiv" >
+								<strong>Description:</strong> <div class="ObjectDetailsNotes">&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Start:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;1. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; analysis document for meta data, including document ID, type, overlay method and form meta data should it exist&lt;br /&gt;&lt;/p&gt;&lt;p&gt;2. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; validates that the document is of a type that can be used&lt;br /&gt;&lt;/p&gt;&lt;p&gt;3. &lt;a href=&quot;javascript:top.guidLink(&#39;{5943B7B2-3A2F-4ebf-A491-ED39041AFB17}&#39;)&quot;Middleware&lt;/a&gt; creates the document in a &lt;a href=&quot;javascript:top.guidLink(&#39;{43CC3E08-7F7D-4d59-8409-F4154B21D161}&#39;)&quot;database&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;Result:&lt;/u&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Document is stored&lt;br /&gt;&lt;/p&gt;</div>
+<br />
+								<strong>Input:</strong> &nbsp; <br />
+								<strong>Acceptance:</strong> &nbsp; <br />
+								<strong>Results:</strong>  &nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA226.htm">Register Form (and Template)</a></td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">Dependency</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../../../../../../EA5/EA1/EA2367.htm">«agent» Middleware</a></td>
+					<td width="10%" class="TableRow" valign="top">Actor</td>
+					<td width="10%" class="TableRow" valign="top">UseCase</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

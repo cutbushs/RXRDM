@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.3.7:1", "", "Payment", "EARoot/EA1/EA3/EA7/EA1284.htm", "175.png", "1626", "0", "", "Logical diagram0","{72A991DC-1F4D-4b6a-8F19-0E8AEACE846C}");
+tocTab[tocTab.length] = new Array("0.1.3.7.1", "1", "«ebo» irm.pay.Common", "EARoot/EA1/EA3/EA7/EA1286.htm", "4.png", "", "", "{341F31AC-2BD9-48dd-AB0D-3EBBF58AA2EA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.7.2", "1", "«ebo» irm.pay.ebo.PayableInvoice", "EARoot/EA1/EA3/EA7/EA1287.htm", "4.png", "", "", "{D73CD1DE-58D5-40f2-BAC8-8EAF833CAFEE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.7.3", "1", "«ebo» irm.pay.ebo.ReceivedPayment", "EARoot/EA1/EA3/EA7/EA1288.htm", "4.png", "", "", "{B0932DF1-9050-470b-8BF9-027C3BC67AEA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.7.4", "1", "«ebo» irm.pay.Reference", "EARoot/EA1/EA3/EA7/EA1289.htm", "4.png", "", "", "{0CE681AB-3B33-462d-A186-3A30B00CDB19}", "Package");

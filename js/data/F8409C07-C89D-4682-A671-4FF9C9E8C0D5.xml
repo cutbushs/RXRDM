@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.1", "1", "«ebm» brm.en.msg.ebm.Notification", "EARoot/EA1/EA2/EA6/EA3/EA1/EA719.htm", "4.png", "", "", "{8E88BFFC-9B0C-4b2b-A4D0-3FBA2A3351DE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.2", "1", "«ebo» brm.en.msg.ebo.Notification", "EARoot/EA1/EA2/EA6/EA3/EA1/EA720.htm", "4.png", "", "", "{CEB0A8DB-9200-4b38-868B-1386184B5C36}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.3", "1", "«evs» brm.en.msg.evs.Notification", "EARoot/EA1/EA2/EA6/EA3/EA1/EA721.htm", "4.png", "", "", "{B7ED49B8-7D1F-4464-9515-DFA35F1F0A05}", "Package");

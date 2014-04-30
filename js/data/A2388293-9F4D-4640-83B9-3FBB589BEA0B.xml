@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.1.3.9.2:3", "", "irm.svc.ebo.Claim", "EARoot/EA1/EA3/EA9/EA2/EA1406.htm", "175.png", "1806", "0", "", "Logical diagram0","{38942AD0-36B4-4da4-8315-3304F8ED4EB0}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:4", "", "«ebo» Claim", "EARoot/EA1/EA3/EA9/EA2/EA1408.htm", "5.png", "29554", "0", "", "Class0","{39C04A2C-F980-4794-B9C9-F31D79642F87}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:5", "", "ClaimDispute", "EARoot/EA1/EA3/EA9/EA2/EA1409.htm", "5.png", "30226", "0", "", "Class0","{BE024EDD-0425-465a-83B0-1A524C0AA418}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:6", "", "ClaimDocument", "EARoot/EA1/EA3/EA9/EA2/EA1410.htm", "5.png", "30483", "0", "", "Class0","{6169285B-91AD-45df-8669-8F8DEE0ABABB}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:7", "", "ClaimDocumentSet", "EARoot/EA1/EA3/EA9/EA2/EA1411.htm", "5.png", "30229", "0", "", "Class0","{AFD9CE1B-940F-48df-B2D0-B43D795D0E4A}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:8", "", "ClaimFormRequirements", "EARoot/EA1/EA3/EA9/EA2/EA1412.htm", "5.png", "30524", "0", "", "Class0","{D8A75A7B-DA01-43a7-825D-ADDEFD3EEE71}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:9", "", "ClaimProcessOutcome", "EARoot/EA1/EA3/EA9/EA2/EA1413.htm", "5.png", "30233", "0", "", "Class0","{F3DF9DB6-DF72-4f99-B73E-6F9CA20AD34C}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:10", "", "ClaimProcessStage", "EARoot/EA1/EA3/EA9/EA2/EA1414.htm", "5.png", "30232", "0", "", "Class0","{9493C5DE-777B-488f-8A06-E0736B4175D0}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:11", "", "ClaimReason", "EARoot/EA1/EA3/EA9/EA2/EA1415.htm", "5.png", "30525", "0", "", "Class0","{EDBDA624-2C57-49e5-A6E9-02C93334584C}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:12", "", "ClaimOriginBusinessUnit", "EARoot/EA1/EA3/EA9/EA2/EA1416.htm", "5.png", "30366", "0", "", "Class0","{79C3D2D4-CABE-4cf4-A322-247E0E1EC9F3}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:13", "", "ClaimParticipant", "EARoot/EA1/EA3/EA9/EA2/EA1417.htm", "5.png", "30367", "0", "", "Class0","{6FB9E0BB-F777-4775-88B5-7238767B408D}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:1", "", "CustomerInteractionOriginationBusinessUnitType", "EARoot/EA1/EA3/EA9/EA2/EA1402.htm", "175.png", "1907", "30366", "", "Logical diagram0","{A9FDE383-111C-4d51-B22F-B51E48230BB5}");
+tocTab[tocTab.length] = new Array("0.1.3.9.2:2", "", "CustomerInteractionParticipantType", "EARoot/EA1/EA3/EA9/EA2/EA1404.htm", "175.png", "1908", "30367", "", "Logical diagram0","{0C87D26D-F4FE-43b2-8955-45E18E3E41B1}");

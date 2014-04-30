@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.4.3.2:1", "", "Data Architecture", "EARoot/EA1/EA2/EA4/EA3/EA2/EA444.htm", "10.png", "983", "0", "", "Component0","{3402FC66-1BE9-434e-A3D3-81FB10B2CAEB}");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.2:2", "", "Governance", "EARoot/EA1/EA2/EA4/EA3/EA2/EA445.htm", "10.png", "985", "0", "", "Component0","{37AE2016-DED6-41ad-8770-08DED5F0642C}");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.2:3", "", "Principals and Policies", "EARoot/EA1/EA2/EA4/EA3/EA2/EA446.htm", "10.png", "982", "0", "", "Component0","{CE9ACBD5-1525-4ab6-A8DF-27DAC35D5F21}");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.2:4", "", "Standards", "EARoot/EA1/EA2/EA4/EA3/EA2/EA447.htm", "10.png", "984", "0", "", "Component0","{1BDA8037-C3B1-4c37-9DA0-857488B0A5E4}");

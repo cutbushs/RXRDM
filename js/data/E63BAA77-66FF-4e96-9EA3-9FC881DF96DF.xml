@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.3.3:1", "", "Finance", "EARoot/EA1/EA3/EA3/EA1041.htm", "175.png", "1616", "0", "", "Logical diagram0","{2B755A6F-54D8-4f34-8E7F-0268E21EE5DA}");
+tocTab[tocTab.length] = new Array("0.1.3.3.1", "1", "«ebo» irm.fin.Common", "EARoot/EA1/EA3/EA3/EA1043.htm", "4.png", "", "", "{E39CBC9F-FB02-4d81-BAA7-05D3E5B8A661}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.3.2", "1", "«ebo» irm.fin.Reference", "EARoot/EA1/EA3/EA3/EA1044.htm", "4.png", "", "", "{6BBFD3B5-3092-4174-B050-4E59E285E925}", "Package");

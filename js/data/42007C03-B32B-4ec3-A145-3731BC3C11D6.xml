@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.7.1.6.1:1", "", "Bindings", "EARoot/EA7/EA1/EA6/EA1/EA2685.htm", "175.png", "1858", "0", "", "Logical diagram0","{831C8E92-9BF4-4daa-AEF3-E4B733B7C6CB}");
+tocTab[tocTab.length] = new Array("0.7.1.6.1:2", "", "«WSDLbinding» brm.em.fin.ar.ivs.ReceivedPayment.binding", "EARoot/EA7/EA1/EA6/EA1/EA2687.htm", "5.png", "29982", "0", "", "Class0","{D298ED0A-855A-437a-B399-9C4F272CA84E}");

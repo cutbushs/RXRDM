@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Update Reference Architecture", "EARoot/EA2/EA82.htm", "180.png", "14", "0", "", "Use Case diagram0","{B0871C1E-A358-450f-8B54-3EF7C403580F}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Actors", "EARoot/EA2/EA84.htm", "4.png", "", "", "{4D0FDBF8-3201-4d6d-A98B-6DA0C7FC3D81}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Primary Use Cases", "EARoot/EA2/EA85.htm", "4.png", "", "", "{998C24F9-7AD0-4ba9-A1DB-BC0D688AB7C9}", "Package");

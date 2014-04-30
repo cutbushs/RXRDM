@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.1.6.2:1", "", "Messages", "EARoot/EA7/EA1/EA6/EA2/EA2688.htm", "175.png", "1855", "0", "", "Logical diagram0","{AB76B969-A320-467f-AAD0-C7D988807A86}");
+tocTab[tocTab.length] = new Array("0.7.1.6.2:2", "", "«WSDLmessage» queryFaultMsgType", "EARoot/EA7/EA1/EA6/EA2/EA2690.htm", "5.png", "29976", "0", "", "Class0","{F49E415C-BD81-40d3-8229-60037BC7BBB1}");
+tocTab[tocTab.length] = new Array("0.7.1.6.2:3", "", "«WSDLmessage» queryListFaultMsgType", "EARoot/EA7/EA1/EA6/EA2/EA2691.htm", "5.png", "29979", "0", "", "Class0","{D6DC67C0-97BC-429b-9613-5626549504A2}");
+tocTab[tocTab.length] = new Array("0.7.1.6.2:4", "", "«WSDLmessage» queryListMsgType", "EARoot/EA7/EA1/EA6/EA2/EA2692.htm", "5.png", "29977", "0", "", "Class0","{55044001-5852-42db-8C2C-A23B6BE73A8D}");
+tocTab[tocTab.length] = new Array("0.7.1.6.2:5", "", "«WSDLmessage» queryListResponseMsgType", "EARoot/EA7/EA1/EA6/EA2/EA2693.htm", "5.png", "29978", "0", "", "Class0","{FF42C85A-DB52-4016-81F9-F427A5580AE0}");
+tocTab[tocTab.length] = new Array("0.7.1.6.2:6", "", "«WSDLmessage» queryMsgType", "EARoot/EA7/EA1/EA6/EA2/EA2694.htm", "5.png", "29974", "0", "", "Class0","{3F870530-9820-4060-BD50-0AD6119C9703}");
+tocTab[tocTab.length] = new Array("0.7.1.6.2:7", "", "«WSDLmessage» queryResponseMsgType", "EARoot/EA7/EA1/EA6/EA2/EA2695.htm", "5.png", "29975", "0", "", "Class0","{45304F10-B2E3-4a87-A9A1-D990E9824A52}");

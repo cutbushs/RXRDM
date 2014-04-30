@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.2.18:1", "", "irm.fin.Reference_1.0", "EARoot/EA7/EA2/EA18/EA3315.htm", "175.png", "1809", "0", "", "Logical diagram0","{2EC79D60-096C-49aa-A142-FED78B93DF12}");
+tocTab[tocTab.length] = new Array("0.7.2.18:2", "", "«XSDcomplexType» DisbursedPaymentReferenceType", "EARoot/EA7/EA2/EA18/EA3317.htm", "5.png", "29594", "0", "", "Class0","{EDFC5C65-CCB4-4093-8969-FE1F429FBE67}");
+tocTab[tocTab.length] = new Array("0.7.2.18:3", "", "«XSDcomplexType» GLElementValueSetReferenceType", "EARoot/EA7/EA2/EA18/EA3318.htm", "5.png", "29595", "0", "", "Class0","{2D00B071-F947-402c-ABD9-7B26F83E3CE6}");
+tocTab[tocTab.length] = new Array("0.7.2.18:4", "", "«XSDcomplexType» LedgerReferenceType", "EARoot/EA7/EA2/EA18/EA3319.htm", "5.png", "29596", "0", "", "Class0","{A0DCE530-20C1-4644-8222-1B41DB76A0CD}");
+tocTab[tocTab.length] = new Array("0.7.2.18:5", "", "«XSDcomplexType» LegalEntityReferenceType", "EARoot/EA7/EA2/EA18/EA3320.htm", "5.png", "29597", "0", "", "Class0","{995D1516-02EA-4e59-8453-D5DE76266336}");

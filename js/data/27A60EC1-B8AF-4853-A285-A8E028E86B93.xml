@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.7.1:1", "", "«Functional» Identity Management", "EARoot/EA1/EA2/EA6/EA7/EA1/EA842.htm", "190.png", "1036", "0", "", "Feature0","{8625338B-D2A2-49b3-8385-8EC1C74E0ED7}");
+tocTab[tocTab.length] = new Array("0.1.2.6.7.1:2", "", "Identity Services", "EARoot/EA1/EA2/EA6/EA7/EA1/EA843.htm", "10.png", "1035", "0", "", "Component0","{F8DD2602-F9B1-4ef7-B9EE-B1ED972643AF}");

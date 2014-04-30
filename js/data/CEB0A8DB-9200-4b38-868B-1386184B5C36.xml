@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.2:1", "", "brm.en.msg.ebo.Notification", "EARoot/EA1/EA2/EA6/EA3/EA1/EA2/EA737.htm", "175.png", "936", "0", "", "Logical diagram0","{BE209861-CBA0-457d-87C4-880D8BF68E06}");
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.2:2", "", "«ebo» Notification", "EARoot/EA1/EA2/EA6/EA3/EA1/EA2/EA739.htm", "5.png", "22111", "0", "", "Class0","{D25FE083-DBAD-41ed-95FE-5DB0BF9C3801}");
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.2:3", "", "NotificationAttachment", "EARoot/EA1/EA2/EA6/EA3/EA1/EA2/EA740.htm", "5.png", "22115", "0", "", "Class0","{44B8B6D5-D856-4b59-9AB0-6FEF7E904D86}");
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.2:4", "", "NotificationEmailCommunication", "EARoot/EA1/EA2/EA6/EA3/EA1/EA2/EA741.htm", "5.png", "22112", "0", "", "Class0","{F1856FB1-D8BA-4cc0-AE2D-A25156781102}");
+tocTab[tocTab.length] = new Array("0.1.2.6.3.1.2:5", "", "NotificationPhoneCommunication", "EARoot/EA1/EA2/EA6/EA3/EA1/EA2/EA742.htm", "5.png", "22114", "0", "", "Class0","{7D40A992-F8D7-4396-9A94-30627C55E887}");

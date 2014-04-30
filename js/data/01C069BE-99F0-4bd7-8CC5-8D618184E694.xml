@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.2.3.1", "1", "«capability» Customer Management", "EARoot/EA1/EA2/EA3/EA299.htm", "4.png", "", "", "{E1F0D604-C7F6-40d7-9365-C94CCA0398D7}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3.2", "1", "«capability» Customer Register", "EARoot/EA1/EA2/EA3/EA300.htm", "4.png", "", "", "{03397E13-4585-45dc-A774-3C6B1EA36B79}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3.3", "", "«capability» Market Products and Services", "EARoot/EA1/EA2/EA3/EA304.htm", "4.png", "", "", "{17BA8963-8944-4833-8899-4DB4DF8594AD}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3.4", "", "«capability» Pipeline Management", "EARoot/EA1/EA2/EA3/EA301.htm", "4.png", "", "", "{5DCC01FF-2A94-4484-8BC5-F60E577B5FA3}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3.5", "", "«capability» Product Register", "EARoot/EA1/EA2/EA3/EA302.htm", "4.png", "", "", "{976D0FA3-CA48-4711-AE31-BDE11B30B855}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3.6", "", "«capability» Quotation Management", "EARoot/EA1/EA2/EA3/EA303.htm", "4.png", "", "", "{DADDC671-F464-4171-9BB5-591F7D99AB38}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3.7", "", "«capability» Sell Products and Services", "EARoot/EA1/EA2/EA3/EA305.htm", "4.png", "", "", "{B7EF636B-10A5-467d-9015-5D043E4CF814}", "Package");

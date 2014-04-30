@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.3.4.2:1", "", "irm.itm.Common", "EARoot/EA1/EA3/EA4/EA2/EA1075.htm", "175.png", "1805", "0", "", "Logical diagram0","{F240D997-A521-4127-85BE-166E5A9D99AC}");
+tocTab[tocTab.length] = new Array("0.1.3.4.2:2", "", "AssetIdentification", "EARoot/EA1/EA3/EA4/EA2/EA1077.htm", "5.png", "9925", "0", "", "Class0","{ADC91CF8-7349-48f3-B04F-C847A8DB4A31}");
+tocTab[tocTab.length] = new Array("0.1.3.4.2:3", "", "ItemCatalogIdentification", "EARoot/EA1/EA3/EA4/EA2/EA1078.htm", "5.png", "11121", "0", "", "Class0","{01163AE9-44B8-4f98-8571-53560FFEBA33}");
+tocTab[tocTab.length] = new Array("0.1.3.4.2:4", "", "ItemIdentification", "EARoot/EA1/EA3/EA4/EA2/EA1079.htm", "5.png", "11127", "0", "", "Class0","{63831397-4B14-4b6e-82FB-7B9CD155BEB7}");
+tocTab[tocTab.length] = new Array("0.1.3.4.2:5", "", "ItemLotIdentification", "EARoot/EA1/EA3/EA4/EA2/EA1080.htm", "5.png", "11133", "0", "", "Class0","{7657BADD-46B2-4128-B62C-591D67F4C8E1}");
+tocTab[tocTab.length] = new Array("0.1.3.4.2:6", "", "ItemPickingRuleIdentification", "EARoot/EA1/EA3/EA4/EA2/EA1081.htm", "5.png", "11136", "0", "", "Class0","{8D9814A5-FAB6-4bf3-AC2A-6ED4AE674D00}");

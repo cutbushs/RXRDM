@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.1.2:1", "", "S02 Schedule Activities", "EARoot/EA1/EA2/EA5/EA1/EA2/EA487.htm", "178.png", "93", "0", "", "Component diagram0","{08145D07-6B6E-4857-BC57-FA4E93EBBB6B}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.2:2", "", "«Functional» S0201 Optimise Activity Schedule", "EARoot/EA1/EA2/EA5/EA1/EA2/EA489.htm", "190.png", "855", "0", "", "Feature0","{20DBC53D-91E9-49e3-A9AE-9B0AB432227B}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.2:3", "", "«Functional» S0202 Detail Activity Execution Schedule", "EARoot/EA1/EA2/EA5/EA1/EA2/EA490.htm", "190.png", "856", "0", "", "Feature0","{D5AE4AA6-EA31-4de5-8CD4-1329AF08C8BC}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.2:4", "", "«Functional» S0203 Update Activity Cost, Time & Resource Catalogue", "EARoot/EA1/EA2/EA5/EA1/EA2/EA491.htm", "190.png", "857", "0", "", "Feature0","{98DFA14D-1D22-4d25-A98F-BE66D041E6A7}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.2:5", "", "«Functional» S0204 Seek Activity Funding Release", "EARoot/EA1/EA2/EA5/EA1/EA2/EA492.htm", "190.png", "858", "0", "", "Feature0","{0D062018-3487-4768-BE49-D89997F9B057}");

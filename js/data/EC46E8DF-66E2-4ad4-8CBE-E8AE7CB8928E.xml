@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.6.5:1", "", "«ESB» Enterprise Service Bus", "EARoot/EA1/EA2/EA6/EA6/EA5/EA824.htm", "10.png", "1030", "0", "", "Component0","{9D2EF10F-998D-40fa-AA20-EA9BF1FC482C}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.5:2", "", "External Service - Business Function", "EARoot/EA1/EA2/EA6/EA6/EA5/EA825.htm", "112.png", "1031", "1030", "", "ProvidedInterface0","{BCFD4560-A5E2-414f-9373-DE5DCBE8FF9A}");

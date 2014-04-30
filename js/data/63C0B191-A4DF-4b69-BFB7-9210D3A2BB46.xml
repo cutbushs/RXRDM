@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.1.3.5.2:1", "", "irm.ord.Reference", "EARoot/EA1/EA3/EA5/EA2/EA1104.htm", "175.png", "1623", "0", "", "Logical diagram0","{A0B227F0-65F0-4e07-B3EE-B8525E6466FA}");
+tocTab[tocTab.length] = new Array("0.1.3.5.2:3", "", "ExternalInvoiceReference", "EARoot/EA1/EA3/EA5/EA2/EA1108.htm", "5.png", "11098", "0", "", "Class0","{B9551FAB-412D-47dd-985E-65B69CC150D2}");
+tocTab[tocTab.length] = new Array("0.1.3.5.2:4", "", "PurchaseAgreementReference", "EARoot/EA1/EA3/EA5/EA2/EA1109.htm", "5.png", "11157", "0", "", "Class0","{9CEB99BC-D587-4966-AD70-7C58351EB3BC}");
+tocTab[tocTab.length] = new Array("0.1.3.5.2:5", "", "PurchaseOrderLineReference", "EARoot/EA1/EA3/EA5/EA2/EA1110.htm", "5.png", "11160", "0", "", "Class0","{3C13E0CC-7F47-4b44-B716-27037D882F9B}");
+tocTab[tocTab.length] = new Array("0.1.3.5.2:6", "", "PurchaseOrderReference", "EARoot/EA1/EA3/EA5/EA2/EA1111.htm", "5.png", "11161", "0", "", "Class0","{194FDFAB-E92F-41f4-9E01-8D6C2F62A9B6}");
+tocTab[tocTab.length] = new Array("0.1.3.5.2:7", "", "PurchaseOrderShipmentReference", "EARoot/EA1/EA3/EA5/EA2/EA1112.htm", "5.png", "11163", "0", "", "Class0","{A9560FA9-BE62-47da-BACB-F7E8D4090E3B}");
+tocTab[tocTab.length] = new Array("0.1.3.5.2:2", "", "PurchaseOrder", "EARoot/EA1/EA3/EA5/EA2/EA1106.htm", "175.png", "345", "11161", "", "Logical diagram0","{435FFF70-67B0-49b7-8AC3-1B37549D924D}");

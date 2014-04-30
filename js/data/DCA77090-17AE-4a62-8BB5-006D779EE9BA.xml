@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.8.1", "1", "«capability» Collaboration and Sharing", "EARoot/EA1/EA2/EA6/EA8/EA846.htm", "4.png", "", "", "{23C11DEA-A032-4d54-AFE8-7C41499D542E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2", "1", "«capability» Data Management", "EARoot/EA1/EA2/EA6/EA8/EA847.htm", "4.png", "", "", "{7023D291-40D8-4605-AD04-C56907F59C9C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.3", "1", "«capability» Education", "EARoot/EA1/EA2/EA6/EA8/EA848.htm", "4.png", "", "", "{6E3F8BEC-F355-42db-9547-1A27352326FB}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4", "1", "«capability» Unstructured Information", "EARoot/EA1/EA2/EA6/EA8/EA849.htm", "4.png", "", "", "{34DAC19C-88FA-4248-BFAB-99CD6F20EBFC}", "Package");

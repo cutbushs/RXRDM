@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.4:1", "", "AA Analyze Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA4/EA536.htm", "178.png", "99", "0", "", "Component diagram0","{41451EAC-8B70-4973-89C8-32B47BAC27ED}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.4:2", "", "«Functional» T0401Analyse Asset Performance", "EARoot/EA1/EA2/EA5/EA2/EA2/EA4/EA538.htm", "190.png", "894", "0", "", "Feature0","{B3C8F835-1066-4642-A42C-93DA82233780}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.4:3", "", "«Functional» T0402 Appraise Asset Integrity", "EARoot/EA1/EA2/EA5/EA2/EA2/EA4/EA539.htm", "190.png", "892", "0", "", "Feature0","{F0C61490-FF7A-4d88-A015-AB925FEF4F50}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.4:4", "", "«Functional» T0403 Review Future of Asset", "EARoot/EA1/EA2/EA5/EA2/EA2/EA4/EA540.htm", "190.png", "893", "0", "", "Feature0","{02B69F50-FC94-42ab-9439-75E7F0AFAC44}");

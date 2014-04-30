@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.1.2.2.1:1", "", "«Functional» 1. Analyze Owner Requirements: ", "EARoot/EA1/EA2/EA2/EA1/EA280.htm", "190.png", "709", "0", "", "Feature0","{6E1DB694-F6E0-4c32-A7BE-08BB9F4E6570}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:2", "", "«Functional» 2. Assess Risks", "EARoot/EA1/EA2/EA2/EA1/EA281.htm", "190.png", "705", "0", "", "Feature0","{985FE0BD-783F-4866-94B6-FB083DDAC264}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:3", "", "«Functional» 3. Define Principles", "EARoot/EA1/EA2/EA2/EA1/EA282.htm", "190.png", "712", "0", "", "Feature0","{C1568AD1-AB81-4517-B704-B8895B4815B3}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:4", "", "«Functional» 4. Define Mission", "EARoot/EA1/EA2/EA2/EA1/EA283.htm", "190.png", "707", "0", "", "Feature0","{3F0C1DDC-2EA3-4423-9E25-8C4711A61E52}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:5", "", "«Functional» 5. Define CSFs", "EARoot/EA1/EA2/EA2/EA1/EA284.htm", "190.png", "706", "0", "", "Feature0","{28C8E76B-C855-458e-9E7F-ADD6B1A5998B}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:6", "", "«Functional» 6. Verify Strategic Alignment", "EARoot/EA1/EA2/EA2/EA1/EA285.htm", "190.png", "704", "0", "", "Feature0","{9DDF00C0-E52D-4467-A805-0F09145DB592}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:7", "", "«Functional» 7. Conduct Strategic Studies", "EARoot/EA1/EA2/EA2/EA1/EA286.htm", "190.png", "701", "0", "", "Feature0","{1598AE95-F15B-4b96-A55E-60B5DEE8D8CF}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:8", "", "«Functional» 8. Establish Business Planning Assumptions", "EARoot/EA1/EA2/EA2/EA1/EA287.htm", "190.png", "711", "0", "", "Feature0","{B2774906-9430-48b3-A56B-353772D97F5F}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:9", "", "«Functional» 9. Achieve Strategic Integration", "EARoot/EA1/EA2/EA2/EA1/EA288.htm", "190.png", "708", "0", "", "Feature0","{62189C13-7263-4f0e-A75E-D65F012AF24A}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:10", "", "«Functional» 10. Define Objectives:", "EARoot/EA1/EA2/EA2/EA1/EA289.htm", "190.png", "703", "0", "", "Feature0","{FA687983-C04F-4ec2-908A-5E9EFD807A08}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:11", "", "«Functional» 11. Define Capabilities", "EARoot/EA1/EA2/EA2/EA1/EA290.htm", "190.png", "710", "0", "", "Feature0","{BBC7AD16-56F4-4c8e-BE6D-5D30AFA11E28}");
+tocTab[tocTab.length] = new Array("0.1.2.2.1:12", "", "«Functional» 12. Close Capability Gaps", "EARoot/EA1/EA2/EA2/EA1/EA291.htm", "190.png", "702", "0", "", "Feature0","{9C9287AD-4FC9-4490-98EB-8BF0E1CFD732}");

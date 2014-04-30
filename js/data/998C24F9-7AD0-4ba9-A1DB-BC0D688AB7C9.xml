@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.2:2", "", "Create Client Specific Reference Architecture", "EARoot/EA2/EA2/EA97.htm", "7.png", "58", "0", "", "UseCase0","{6D4F080B-3C4A-42f7-9289-EF8F71254569}");
+tocTab[tocTab.length] = new Array("0.2.2:3", "", "Update Client Specific Reference Architecture", "EARoot/EA2/EA2/EA98.htm", "7.png", "59", "0", "", "UseCase0","{BD1B5D59-2F59-4191-A25B-BA5860058F8C}");
+tocTab[tocTab.length] = new Array("0.2.2:4", "", "Update Rubicon Red Reference Architecture", "EARoot/EA2/EA2/EA99.htm", "7.png", "60", "0", "", "UseCase0","{49B7142E-2529-453d-9FCA-CB4B7E9C490F}");
+tocTab[tocTab.length] = new Array("0.2.2:1", "", "Create Reference Architecture For Client", "EARoot/EA2/EA2/EA95.htm", "180.png", "16", "58", "", "Use Case diagram0","{EA4F1BA2-211C-42bd-8A70-62DC7F527528}");
+tocTab[tocTab.length] = new Array("0.2.2:5", "", "Create Client Template", "EARoot/EA2/EA2/EA100.htm", "7.png", "65", "58", "", "UseCase0","{95B7349E-8945-4334-B1CA-4B2BE136CDFC}");
+tocTab[tocTab.length] = new Array("0.2.2:6", "", "Create copy of latest RxR Reference Architecture", "EARoot/EA2/EA2/EA101.htm", "7.png", "63", "58", "", "UseCase0","{7804F482-A6AD-42ec-83FC-A085DEF6D612}");
+tocTab[tocTab.length] = new Array("0.2.2:7", "", "Reference Architecture Internal Review", "EARoot/EA2/EA2/EA102.htm", "7.png", "67", "58", "", "UseCase0","{CF6B880C-CEE4-45e7-BEA8-B845784DB793}");
+tocTab[tocTab.length] = new Array("0.2.2:8", "", "Review Reference Architecture", "EARoot/EA2/EA2/EA103.htm", "7.png", "66", "58", "", "UseCase0","{D298AED9-5B16-4aad-9DF0-7B9185381ED7}");
+tocTab[tocTab.length] = new Array("0.2.2:9", "", "Review similar industry Reference Architectures", "EARoot/EA2/EA2/EA104.htm", "7.png", "64", "58", "", "UseCase0","{E9B94F18-37AC-402b-B886-31987E8F16E1}");

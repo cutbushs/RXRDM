@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.7.2.17:1", "", "irm.fin.Common_1.0", "EARoot/EA7/EA2/EA17/EA3300.htm", "175.png", "1808", "0", "", "Logical diagram0","{2B86FF3A-ECA0-4d8c-A639-6B294A5CEAB4}");
+tocTab[tocTab.length] = new Array("0.7.2.17:2", "", "«XSDcomplexType» AccountingDistributionType", "EARoot/EA7/EA2/EA17/EA3302.htm", "5.png", "29581", "0", "", "Class0","{0543C3C4-05FA-4f50-8B50-C2FBE7CBB31C}");
+tocTab[tocTab.length] = new Array("0.7.2.17:3", "", "«XSDcomplexType» AccountingEntryIdentificationType", "EARoot/EA7/EA2/EA17/EA3303.htm", "5.png", "29582", "0", "", "Class0","{A42F13D7-96B7-41af-8696-2C1F83E25C60}");
+tocTab[tocTab.length] = new Array("0.7.2.17:4", "", "«XSDcomplexType» AllowanceType", "EARoot/EA7/EA2/EA17/EA3304.htm", "5.png", "29583", "0", "", "Class0","{39A7E1CD-77E0-4b41-BA15-AEB7F2AF83A3}");
+tocTab[tocTab.length] = new Array("0.7.2.17:5", "", "«XSDcomplexType» BankAccountIdentificationType", "EARoot/EA7/EA2/EA17/EA3305.htm", "5.png", "29584", "0", "", "Class0","{C54B42BC-D6EA-42dd-A1B2-682BC1A34C0D}");
+tocTab[tocTab.length] = new Array("0.7.2.17:6", "", "«XSDcomplexType» BankDraftType", "EARoot/EA7/EA2/EA17/EA3306.htm", "5.png", "29585", "0", "", "Class0","{4C5C9982-F4A5-4e1b-9124-0EEFFE98C73A}");
+tocTab[tocTab.length] = new Array("0.7.2.17:7", "", "«XSDcomplexType» CurrencyExchangeType", "EARoot/EA7/EA2/EA17/EA3307.htm", "5.png", "29586", "0", "", "Class0","{CE188BF7-FDF3-4fcb-AC36-9FE97951E08D}");
+tocTab[tocTab.length] = new Array("0.7.2.17:8", "", "«XSDcomplexType» GLAccountIdentificationType", "EARoot/EA7/EA2/EA17/EA3308.htm", "5.png", "29588", "0", "", "Class0","{20842B24-16E9-4606-B5BD-34DCD3708651}");
+tocTab[tocTab.length] = new Array("0.7.2.17:9", "", "«XSDcomplexType» GLAccountType", "EARoot/EA7/EA2/EA17/EA3309.htm", "5.png", "29587", "0", "", "Class0","{DA3B1229-262A-4288-9A12-EC0E99682134}");
+tocTab[tocTab.length] = new Array("0.7.2.17:10", "", "«XSDcomplexType» GLElementType", "EARoot/EA7/EA2/EA17/EA3310.htm", "5.png", "29589", "0", "", "Class0","{82C9DA6A-B705-4543-9F77-5F73ACD3C268}");
+tocTab[tocTab.length] = new Array("0.7.2.17:11", "", "«XSDcomplexType» GLElementValueSetLineType", "EARoot/EA7/EA2/EA17/EA3311.htm", "5.png", "29590", "0", "", "Class0","{30299791-B0FC-47f5-8F09-5A9D4A7EAFC2}");
+tocTab[tocTab.length] = new Array("0.7.2.17:12", "", "«XSDcomplexType» LedgerIdentificationType", "EARoot/EA7/EA2/EA17/EA3312.htm", "5.png", "29591", "0", "", "Class0","{A3475987-BD99-4ec1-B4CD-AC3E45456080}");
+tocTab[tocTab.length] = new Array("0.7.2.17:13", "", "«XSDcomplexType» LegalEntityIdentificationType", "EARoot/EA7/EA2/EA17/EA3313.htm", "5.png", "29592", "0", "", "Class0","{C767B246-2F11-4dd4-8420-2B907218F3C1}");
+tocTab[tocTab.length] = new Array("0.7.2.17:14", "", "«XSDcomplexType» TaxType", "EARoot/EA7/EA2/EA17/EA3314.htm", "5.png", "29593", "0", "", "Class0","{5EA60B3B-56DF-4f79-81A5-10CC52C439D2}");

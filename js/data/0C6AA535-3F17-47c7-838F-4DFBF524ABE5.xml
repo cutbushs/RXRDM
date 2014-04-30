@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.2.20:1", "", "irm.itm.Reference_1.0", "EARoot/EA7/EA2/EA20/EA3328.htm", "175.png", "1819", "0", "", "Logical diagram0","{F92EB6E2-3937-4f78-A351-97B011B0FB7E}");
+tocTab[tocTab.length] = new Array("0.7.2.20:2", "", "«XSDcomplexType» ItemCatalogReferenceType", "EARoot/EA7/EA2/EA20/EA3330.htm", "5.png", "29749", "0", "", "Class0","{632DBB41-4664-4411-A7B8-2E7FD00B33AF}");
+tocTab[tocTab.length] = new Array("0.7.2.20:3", "", "«XSDcomplexType» ItemInstanceRangeType", "EARoot/EA7/EA2/EA20/EA3331.htm", "5.png", "29751", "0", "", "Class0","{E6A581A0-48A4-4b3e-912C-4C5C64DD5EEA}");
+tocTab[tocTab.length] = new Array("0.7.2.20:4", "", "«XSDcomplexType» ItemInstanceType", "EARoot/EA7/EA2/EA20/EA3332.htm", "5.png", "29750", "0", "", "Class0","{E8374731-4F72-498f-9373-E571AA482110}");
+tocTab[tocTab.length] = new Array("0.7.2.20:5", "", "«XSDcomplexType» ItemLotReferenceType", "EARoot/EA7/EA2/EA20/EA3333.htm", "5.png", "29752", "0", "", "Class0","{3D54F59E-0BA5-49ff-B13C-09F0DBE52469}");
+tocTab[tocTab.length] = new Array("0.7.2.20:6", "", "«XSDcomplexType» ItemPickingRuleReferenceType", "EARoot/EA7/EA2/EA20/EA3334.htm", "5.png", "29753", "0", "", "Class0","{4E826AE3-E584-4c46-BF9A-CE1719E55159}");
+tocTab[tocTab.length] = new Array("0.7.2.20:7", "", "«XSDcomplexType» ItemReferenceType", "EARoot/EA7/EA2/EA20/EA3335.htm", "5.png", "29754", "0", "", "Class0","{86C5AE05-611A-419a-B6F1-E03FA1D87FAF}");

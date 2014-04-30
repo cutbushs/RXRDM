@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.8:1", "", "«Functional» Human Resources", "EARoot/EA1/EA2/EA5/EA8/EA652.htm", "190.png", "933", "0", "", "Feature0","{72C057EB-D78A-498f-B420-BCC439191085}");
+tocTab[tocTab.length] = new Array("0.1.2.5.8:2", "", "«Functional» Personal Information", "EARoot/EA1/EA2/EA5/EA8/EA656.htm", "190.png", "930", "0", "", "Feature0","{8E566472-4CB8-48a2-B055-B4CE6F08DB91}");
+tocTab[tocTab.length] = new Array("0.1.2.5.8.1", "", "N01 Resource the Organisation and Develop Staff", "EARoot/EA1/EA2/EA5/EA8/EA653.htm", "4.png", "", "", "{EDBF4B05-570C-415c-BB64-6380EB8842CB}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.8.2", "", "N02 Sustain Values and Administer Human Resources Polices", "EARoot/EA1/EA2/EA5/EA8/EA654.htm", "4.png", "", "", "{DD890E08-B40C-4f2a-A75B-606DD74BA064}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.8.3", "", "N03 Provide Staff Services", "EARoot/EA1/EA2/EA5/EA8/EA655.htm", "4.png", "", "", "{0C3C5923-6A10-4eb1-9097-F2749B19D357}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.11.1.1.3:1", "", "C03 Appraise Controls", "EARoot/EA1/EA2/EA5/EA11/EA1/EA1/EA3/EA686.htm", "178.png", "102", "0", "", "Component diagram0","{D07BA68E-9D85-4bd5-8413-D6236800E353}");
+tocTab[tocTab.length] = new Array("0.1.2.5.11.1.1.3:2", "", "«Functional» Conduct Assessment", "EARoot/EA1/EA2/EA5/EA11/EA1/EA1/EA3/EA688.htm", "190.png", "908", "0", "", "Feature0","{E203A05A-7CF2-4158-82A5-02F44E253B61}");
+tocTab[tocTab.length] = new Array("0.1.2.5.11.1.1.3:3", "", "«Functional» Improve Controls", "EARoot/EA1/EA2/EA5/EA11/EA1/EA1/EA3/EA689.htm", "190.png", "907", "0", "", "Feature0","{EF8F7F82-3958-4ba8-8E65-61C356A3EC88}");
+tocTab[tocTab.length] = new Array("0.1.2.5.11.1.1.3:4", "", "«Functional» Plan Assessment", "EARoot/EA1/EA2/EA5/EA11/EA1/EA1/EA3/EA690.htm", "190.png", "909", "0", "", "Feature0","{EC1DE5B3-1D8D-4178-90A5-49CCED304524}");
+tocTab[tocTab.length] = new Array("0.1.2.5.11.1.1.3:5", "", "«Functional» Prepare Assessment", "EARoot/EA1/EA2/EA5/EA11/EA1/EA1/EA3/EA691.htm", "190.png", "910", "0", "", "Feature0","{DF3C342F-D8D1-488e-AA6D-6B821B47830A}");

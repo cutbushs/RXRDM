@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.2.9:1", "", "irm.pty.ebo.Notification_1.0", "EARoot/EA7/EA2/EA9/EA3138.htm", "175.png", "1817", "0", "", "Logical diagram0","{11CF1A24-AE99-4e6b-87C8-EA217F59E122}");
+tocTab[tocTab.length] = new Array("0.7.2.9:2", "", "«XSDcomplexType» NotificationAttachmentType", "EARoot/EA7/EA2/EA9/EA3140.htm", "5.png", "29741", "0", "", "Class0","{1337B2D9-6953-4e17-B0B0-6D6B47AFC086}");
+tocTab[tocTab.length] = new Array("0.7.2.9:3", "", "«XSDtopLevelElement» notificationEBO", "EARoot/EA7/EA2/EA9/EA3141.htm", "5.png", "29740", "0", "", "Class0","{22E24B4E-A939-4bf3-B4EA-541DD7A028B5}");
+tocTab[tocTab.length] = new Array("0.7.2.9:4", "", "«XSDcomplexType» NotificationEmailCommunicationType", "EARoot/EA7/EA2/EA9/EA3142.htm", "5.png", "29742", "0", "", "Class0","{4E7FDCF8-0176-4dcf-9E7D-9292C8BBBB36}");
+tocTab[tocTab.length] = new Array("0.7.2.9:5", "", "«XSDcomplexType» NotificationPhoneCommunicationType", "EARoot/EA7/EA2/EA9/EA3143.htm", "5.png", "29743", "0", "", "Class0","{3D688BA1-9759-445b-A527-C6A7452C808B}");
+tocTab[tocTab.length] = new Array("0.7.2.9:6", "", "«XSDcomplexType» NotificationType", "EARoot/EA7/EA2/EA9/EA3144.htm", "5.png", "29739", "0", "", "Class0","{AFEDF4D5-DF66-4dd2-836B-9C8868E5F705}");

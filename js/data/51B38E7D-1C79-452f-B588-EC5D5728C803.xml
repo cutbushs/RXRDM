@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.4:1", "", "«workflow» BPM", "EARoot/EA3/EA4/EA2313.htm", "10.png", "161", "0", "", "Component0","{9C61399E-EA65-46bd-9F6A-BB887A8965B5}");
+tocTab[tocTab.length] = new Array("0.3.4:2", "", "Application Connectors", "EARoot/EA3/EA4/EA2314.htm", "10.png", "373", "0", "", "Component0","{B8F04CA1-252F-4c95-A90D-D99CC24C092A}");
+tocTab[tocTab.length] = new Array("0.3.4:3", "", "Business Process Orchestration", "EARoot/EA3/EA4/EA2315.htm", "10.png", "337", "0", "", "Component0","{48243252-8F7A-4847-A789-1B07891E739E}");
+tocTab[tocTab.length] = new Array("0.3.4:4", "", "Cache", "EARoot/EA3/EA4/EA2316.htm", "10.png", "380", "0", "", "Component0","{5DAD81B9-CCD8-4d1d-BE33-DB1B7841CB4E}");
+tocTab[tocTab.length] = new Array("0.3.4:5", "", "«esb» Enterprise Service Bus", "EARoot/EA3/EA4/EA2317.htm", "10.png", "377", "0", "", "Component0","{EABCE5BE-6ECB-41c9-81CE-F574047EB43E}");
+tocTab[tocTab.length] = new Array("0.3.4:6", "", "ETL", "EARoot/EA3/EA4/EA2318.htm", "10.png", "351", "0", "", "Component0","{8FBD6C6B-2660-4566-B7EE-00311DB6D270}");

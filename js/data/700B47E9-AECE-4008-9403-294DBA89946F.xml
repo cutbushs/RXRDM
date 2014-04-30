@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.6:1", "", "Information Technology Services", "EARoot/EA1/EA2/EA5/EA6/EA641.htm", "178.png", "103", "0", "", "Component diagram0","{F250EB09-AFDA-4ad6-A561-CAC9C85547FE}");
+tocTab[tocTab.length] = new Array("0.1.2.5.6.1", "1", "«subCapability» Operate Information Technology Services (O02)", "EARoot/EA1/EA2/EA5/EA6/EA643.htm", "4.png", "", "", "{F9551C34-A81C-4b48-8DEE-F2D1373763D2}", "Package");

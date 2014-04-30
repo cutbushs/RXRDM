@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.9.1.12:1", "", "Multiple Choice", "EARoot/EA9/EA1/EA12/EA3815.htm", "189.png", "1340", "0", "", "Analysis diagram0","{D81152FE-2912-4e9b-B3E8-95593AFC3BDD}");
+tocTab[tocTab.length] = new Array("0.9.1.12:2", "", "«Activity» Activity1", "EARoot/EA9/EA1/EA12/EA3817.htm", "21.png", "26175", "0", "", "Activity0","{6CBCEB55-CDC6-4d52-846F-9D1FFC0BAC5C}");
+tocTab[tocTab.length] = new Array("0.9.1.12:3", "", "«Activity» Activity2", "EARoot/EA9/EA1/EA12/EA3818.htm", "21.png", "26176", "0", "", "Activity0","{8BCFA1CB-288F-4b7f-9246-1308CE43D55B}");
+tocTab[tocTab.length] = new Array("0.9.1.12:4", "", "«Activity» Activity3", "EARoot/EA9/EA1/EA12/EA3819.htm", "21.png", "26177", "0", "", "Activity0","{DEFD6AE2-146A-4276-A7EA-CC0B72EB7CCF}");
+tocTab[tocTab.length] = new Array("0.9.1.12:5", "", "«Gateway» Inclusive Gateway", "EARoot/EA9/EA1/EA12/EA3820.htm", "56.png", "26178", "0", "", "Decision0","{F864506A-19E3-4636-97CF-A62FE414E655}");

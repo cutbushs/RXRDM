@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.6.1.1:1", "", "«process» Increment", "EARoot/EA1/EA2/EA5/EA6/EA1/EA1/EA647.htm", "21.png", "938", "0", "", "Activity0","{F67465C5-82D3-47a2-9CCC-4BB9B1732AEC}");
+tocTab[tocTab.length] = new Array("0.1.2.5.6.1.1:2", "", "«process» Initialise", "EARoot/EA1/EA2/EA5/EA6/EA1/EA1/EA648.htm", "21.png", "939", "0", "", "Activity0","{9ECDD66D-3D0E-4c54-BB9D-26A2525C4F20}");
+tocTab[tocTab.length] = new Array("0.1.2.5.6.1.1:3", "", "«process» Update", "EARoot/EA1/EA2/EA5/EA6/EA1/EA1/EA649.htm", "21.png", "940", "0", "", "Activity0","{5DFD05FE-9908-4a0c-ACAA-8E7A50F2C874}");

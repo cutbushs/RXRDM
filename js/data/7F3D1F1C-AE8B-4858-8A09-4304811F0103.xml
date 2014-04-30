@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.2.1:1", "", "brm.sm.cm.ivs.CustomerInteraction", "EARoot/EA1/EA2/EA3/EA2/EA1/EA2/EA1/EA410.htm", "178.png", "1607", "0", "", "Component diagram0","{BBF47839-38BA-46b6-994C-5BDCF08D98DE}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.2.1:2", "", "«ivs» brm.sm.cr.ivs.CustomerParty", "EARoot/EA1/EA2/EA3/EA2/EA1/EA2/EA1/EA421.htm", "8.png", "27769", "0", "", "Interface0","{8FE53C17-7924-49be-B461-A675A2BD51CC}");

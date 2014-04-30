@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:1", "", "Canonical Data Model", "EARoot/EA1/EA2/EA6/EA8/EA2/EA852.htm", "10.png", "1051", "0", "", "Component0","{89E0B789-A956-4281-B792-850DB6D301B1}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:2", "", "Data Quality Services", "EARoot/EA1/EA2/EA6/EA8/EA2/EA853.htm", "10.png", "1053", "0", "", "Component0","{A83F2063-59B0-4d85-BF5D-A98FF2C3A7EC}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:3", "", "Master Data Services", "EARoot/EA1/EA2/EA6/EA8/EA2/EA854.htm", "10.png", "1045", "0", "", "Component0","{51E38B41-63B6-496b-9348-FD72D04F50A0}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:4", "", "Meta Data Management", "EARoot/EA1/EA2/EA6/EA8/EA2/EA855.htm", "10.png", "1049", "0", "", "Component0","{9806F157-A50E-46fc-A543-005EEB3B41B4}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:5", "", "Reference Data Management", "EARoot/EA1/EA2/EA6/EA8/EA2/EA856.htm", "10.png", "1046", "0", "", "Component0","{4F156FCD-ED95-4ffb-B9EA-57D924DC35D9}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:6", "", "Record Matching and Linking", "EARoot/EA1/EA2/EA6/EA8/EA2/EA857.htm", "10.png", "1052", "1045", "", "Component0","{6CA18A3F-F3D0-4229-B023-2C2B37FBBF0B}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:7", "", "Hierarchy Management", "EARoot/EA1/EA2/EA6/EA8/EA2/EA858.htm", "10.png", "1047", "1046", "", "Component0","{2AFB3EB0-3218-4945-9397-04B8313D3D6B}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.2:8", "", "Data Enrichment Services", "EARoot/EA1/EA2/EA6/EA8/EA2/EA859.htm", "10.png", "1048", "1053", "", "Component0","{3608F58B-D931-4f09-88B8-2014EBC4A917}");

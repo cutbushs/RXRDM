@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:1", "", "brm.en.int.EBMHeader_1.0", "EARoot/EA1/EA2/EA6/EA6/EA8/EA827.htm", "175.png", "287", "0", "", "Logical diagram0","{13328F68-E5D4-4cbe-B47C-73D65A854826}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:2", "", "EBM", "EARoot/EA1/EA2/EA6/EA6/EA8/EA829.htm", "5.png", "9729", "0", "", "Class0","{BCDBDD97-D5CA-49be-8C0E-A843B456318D}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:3", "", "«XSDsimpleType» EbmID", "EARoot/EA1/EA2/EA6/EA6/EA8/EA830.htm", "5.png", "9730", "0", "", "Class0","{118C474B-6467-4b66-838D-0A82E750E60B}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:4", "", "«XSDsimpleType» EbmSID", "EARoot/EA1/EA2/EA6/EA6/EA8/EA831.htm", "5.png", "9731", "0", "", "Class0","{D0AA951A-3142-43d4-A0FB-4C79948FA946}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:5", "", "EventClassType", "EARoot/EA1/EA2/EA6/EA6/EA8/EA832.htm", "247.png", "23406", "0", "", "Enumeration0","{66846DC9-896F-40e2-9461-8D7F791B27FD}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:6", "", "«XSDsimpleType» EventTime", "EARoot/EA1/EA2/EA6/EA6/EA8/EA833.htm", "5.png", "9733", "0", "", "Class0","{42CD8327-B4F4-4c06-942C-C301F99D7924}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:7", "", "Header", "EARoot/EA1/EA2/EA6/EA6/EA8/EA834.htm", "5.png", "9734", "0", "", "Class0","{961A6C5B-9FA3-45aa-8B94-A86F9A9F82DF}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:8", "", "«XSDsimpleType» header", "EARoot/EA1/EA2/EA6/EA6/EA8/EA835.htm", "5.png", "9744", "0", "", "Class0","{BA38EEFB-9EE4-4d1b-85D5-8AE4FD13B7C1}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:9", "", "Property", "EARoot/EA1/EA2/EA6/EA6/EA8/EA836.htm", "5.png", "9737", "0", "", "Class0","{8CBE0829-76F0-425b-A72C-2C9FA76E8C13}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:10", "", "PropertySet", "EARoot/EA1/EA2/EA6/EA6/EA8/EA837.htm", "5.png", "9736", "0", "", "Class0","{9B5C1FA2-6C85-403c-884D-6EB5DEC03EF2}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:11", "", "«XSDsimpleType» UID", "EARoot/EA1/EA2/EA6/EA6/EA8/EA838.htm", "5.png", "9280", "0", "", "Class0","{20D19A8A-AF1C-4255-851A-B14006A594AC}");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8:12", "", "«XSDsimpleType» Version", "EARoot/EA1/EA2/EA6/EA6/EA8/EA839.htm", "5.png", "9738", "0", "", "Class0","{6619B185-B369-4b28-BD1D-4888C45A7948}");

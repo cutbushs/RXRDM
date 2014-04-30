@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2:1", "", "«Functional» Asset Management", "EARoot/EA1/EA2/EA5/EA2/EA2/EA511.htm", "190.png", "874", "0", "", "Feature0","{EBF0E7AE-DA21-43a1-A11A-F0320AFE2914}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2:2", "", "«Functional» Enterprise Asset Management", "EARoot/EA1/EA2/EA5/EA2/EA2/EA512.htm", "190.png", "873", "0", "", "Feature0","{2CBC3A80-876D-48ab-89E2-3E51D610E433}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.1", "1", "«capability» Plan Asset (T01)", "EARoot/EA1/EA2/EA5/EA2/EA2/EA513.htm", "4.png", "", "", "{582771F7-3AD9-4936-8F79-CA77B5593FE0}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.2", "1", "«capability» Schedule Asset Activities (T02)", "EARoot/EA1/EA2/EA5/EA2/EA2/EA514.htm", "4.png", "", "", "{DCB03987-5AC6-4bd5-A77D-854008F61018}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.3", "1", "«capability» Work the Asset (T03)", "EARoot/EA1/EA2/EA5/EA2/EA2/EA515.htm", "4.png", "", "", "{8C15B989-6941-4e7f-B665-EC78FC66F44A}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.4", "1", "«capability» Analyse Asset (T04)", "EARoot/EA1/EA2/EA5/EA2/EA2/EA516.htm", "4.png", "", "", "{0B2CC030-EF6E-4769-9FE9-2E92327FD3EB}", "Package");

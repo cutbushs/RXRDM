@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.9.1.4:1", "", "Deferred Choice", "EARoot/EA9/EA1/EA4/EA3743.htm", "189.png", "1350", "0", "", "Analysis diagram0","{C056F6C7-B81E-48bb-ACD4-A2F5CFB51D37}");
+tocTab[tocTab.length] = new Array("0.9.1.4:2", "", "«Gateway» ", "EARoot/EA9/EA1/EA4/EA3745.htm", "56.png", "26253", "0", "", "Decision0","{2E4C304C-825B-4800-B567-85E051F61A13}");
+tocTab[tocTab.length] = new Array("0.9.1.4:3", "", "«Gateway» ", "EARoot/EA9/EA1/EA4/EA3746.htm", "56.png", "26256", "0", "", "Decision0","{67139198-F445-4404-801A-C94F395ED184}");
+tocTab[tocTab.length] = new Array("0.9.1.4:4", "", "«IntermediateEvent» IntermediateEvent1", "EARoot/EA9/EA1/EA4/EA3747.htm", "24.png", "26254", "0", "", "Event0","{A33E1F22-77A3-4bcb-BD95-B40731BDDC98}");
+tocTab[tocTab.length] = new Array("0.9.1.4:5", "", "«IntermediateEvent» IntermediateEvent2", "EARoot/EA9/EA1/EA4/EA3748.htm", "24.png", "26255", "0", "", "Event0","{8B9606AD-C136-4be4-A64A-68F0AE44D841}");
+tocTab[tocTab.length] = new Array("0.9.1.4:6", "", "«Activity» Activity1", "EARoot/EA9/EA1/EA4/EA3749.htm", "21.png", "26250", "0", "", "Activity0","{407F62AC-8612-4098-A011-FEE274CB2496}");
+tocTab[tocTab.length] = new Array("0.9.1.4:7", "", "«Activity» Activity2", "EARoot/EA9/EA1/EA4/EA3750.htm", "21.png", "26251", "0", "", "Activity0","{CCB692F2-C8E1-4a94-B9A4-06B0B9048FB6}");
+tocTab[tocTab.length] = new Array("0.9.1.4:8", "", "«Activity» Activity3", "EARoot/EA9/EA1/EA4/EA3751.htm", "21.png", "26252", "0", "", "Activity0","{23AD706E-9C98-4471-9A98-FEC663942032}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.1.4:1", "", "S04 Analyze Activity Performance", "EARoot/EA1/EA2/EA5/EA1/EA4/EA502.htm", "178.png", "95", "0", "", "Component diagram0","{8BE9CD5F-EB64-44ad-935A-86E7811720B1}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.4:2", "", "«Functional» S0401 Assess Activity Performance", "EARoot/EA1/EA2/EA5/EA1/EA4/EA504.htm", "190.png", "867", "0", "", "Feature0","{820D97FC-DA0E-48d1-A412-8295A59DD25C}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1.4:3", "", "«Functional» S0402 Feedback Activity Lessons Learned", "EARoot/EA1/EA2/EA5/EA1/EA4/EA505.htm", "190.png", "866", "0", "", "Feature0","{0FBC94B9-A95F-426b-B917-A74A348A98F4}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.2.4.3.1", "", "«capability» Business Architecture", "EARoot/EA1/EA2/EA4/EA3/EA439.htm", "4.png", "", "", "{782DF408-E168-479d-A2F3-8D4DB718C3A0}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.2", "1", "«capability» Data Architecture", "EARoot/EA1/EA2/EA4/EA3/EA440.htm", "4.png", "", "", "{6A79573D-8626-475d-B46F-0E9DF9A7292C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.3", "", "«capability» Organisation Architecture", "EARoot/EA1/EA2/EA4/EA3/EA441.htm", "4.png", "", "", "{6E760F53-E8FD-4f46-8350-46F9FC094493}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.4", "", "«capability» Solution Governance", "EARoot/EA1/EA2/EA4/EA3/EA442.htm", "4.png", "", "", "{C2EC5984-D42D-4421-A0FF-CCA41D63BE7B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4.3.5", "1", "«capability» Technology Architecture", "EARoot/EA1/EA2/EA4/EA3/EA443.htm", "4.png", "", "", "{49A29561-B023-4464-A29D-B846653A8660}", "Package");

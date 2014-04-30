@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.3.2.1:1", "", "brm.cm.ppr.ebo.Form", "EARoot/EA1/EA3/EA2/EA1/EA1020.htm", "175.png", "978", "0", "", "Logical diagram0","{9C4F125C-8A62-41e3-A442-02B5BD16071D}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:2", "", "BaseDocument", "EARoot/EA1/EA3/EA2/EA1/EA1022.htm", "5.png", "22744", "0", "", "Class0","{5218AB4A-92AA-4097-AAEF-014E1CDB29AC}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:3", "", "ElementPosition", "EARoot/EA1/EA3/EA2/EA1/EA1023.htm", "5.png", "22514", "0", "", "Class0","{2197A670-19FD-4699-9E66-5B6B97B83715}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:4", "", "Font", "EARoot/EA1/EA3/EA2/EA1/EA1024.htm", "5.png", "22521", "0", "", "Class0","{0407359D-B583-4979-8B3B-60C69109EBCD}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:5", "", "«ebo» Form", "EARoot/EA1/EA3/EA2/EA1/EA1025.htm", "5.png", "22522", "0", "", "Class0","{1EDE0E28-BC92-4feb-91D5-4604379735C8}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:6", "", "FormElement", "EARoot/EA1/EA3/EA2/EA1/EA1026.htm", "5.png", "22517", "0", "", "Class0","{7D677A40-8698-4602-9841-543B1BD72CC0}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:7", "", "FormElementSet", "EARoot/EA1/EA3/EA2/EA1/EA1027.htm", "5.png", "22520", "0", "", "Class0","{5ADEC27B-2247-4dd9-A28E-15923C0B8CF9}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:8", "", "FormMapTemplate", "EARoot/EA1/EA3/EA2/EA1/EA1028.htm", "5.png", "22830", "0", "", "Class0","{1834D4B6-C0A9-468b-8F6D-A6AF8DF6502B}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:9", "", "FormOverlay", "EARoot/EA1/EA3/EA2/EA1/EA1029.htm", "5.png", "22519", "0", "", "Class0","{9CBB5C30-5D27-410f-A2ED-6E7C9DF91549}");
+tocTab[tocTab.length] = new Array("0.1.3.2.1:10", "", "OverlayElement", "EARoot/EA1/EA3/EA2/EA1/EA1030.htm", "5.png", "22513", "0", "", "Class0","{C39AB65F-7A44-4d76-87D6-74AE96037DCA}");

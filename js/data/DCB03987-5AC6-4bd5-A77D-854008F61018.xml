@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.2:1", "", "MA Schedule Asset Activities", "EARoot/EA1/EA2/EA5/EA2/EA2/EA2/EA525.htm", "178.png", "97", "0", "", "Component diagram0","{4A67F3BC-C96A-4a89-A395-CC47BE208F00}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.2:2", "", "«Functional» T0201 Prepare/Update Asset Activity Schedule", "EARoot/EA1/EA2/EA5/EA2/EA2/EA2/EA527.htm", "190.png", "886", "0", "", "Feature0","{550F1F4A-6994-44c2-8AEE-A85D60E1FC4D}");
+tocTab[tocTab.length] = new Array("0.1.2.5.2.2.2:3", "", "«Functional» T0202 Endorse Asset Activity Schedule", "EARoot/EA1/EA2/EA5/EA2/EA2/EA2/EA528.htm", "190.png", "885", "0", "", "Feature0","{1ED29B81-9FF8-4921-88FA-9A32B639FDC3}");

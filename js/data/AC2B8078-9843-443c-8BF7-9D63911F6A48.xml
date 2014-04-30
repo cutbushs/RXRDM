@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.2.21:1", "", "irm.ord.Common_1.0", "EARoot/EA7/EA2/EA21/EA3336.htm", "175.png", "1829", "0", "", "Logical diagram0","{70D702EE-F30F-40b5-8B5B-ADC67D2CF6DC}");
+tocTab[tocTab.length] = new Array("0.7.2.21:2", "", "«XSDcomplexType» ExternalInvoiceIdentificationType", "EARoot/EA7/EA2/EA21/EA3338.htm", "5.png", "29831", "0", "", "Class0","{8EFC5DC6-C5E9-4e2d-B3E6-685382D9DA11}");
+tocTab[tocTab.length] = new Array("0.7.2.21:3", "", "«XSDcomplexType» PriceType", "EARoot/EA7/EA2/EA21/EA3339.htm", "5.png", "29832", "0", "", "Class0","{28BF6316-BFDC-47f2-9544-9295B1523125}");
+tocTab[tocTab.length] = new Array("0.7.2.21:4", "", "«XSDcomplexType» PurchaseOrderIdentificationType", "EARoot/EA7/EA2/EA21/EA3340.htm", "5.png", "29833", "0", "", "Class0","{0AE41C29-F0B4-49b7-B3C7-0D3538D60C56}");
+tocTab[tocTab.length] = new Array("0.7.2.21:5", "", "«XSDcomplexType» PurchaseOrderLineIdentificationType", "EARoot/EA7/EA2/EA21/EA3341.htm", "5.png", "29834", "0", "", "Class0","{15836F58-03F7-4ad3-BF78-A74173946B12}");
+tocTab[tocTab.length] = new Array("0.7.2.21:6", "", "«XSDcomplexType» PurchaseOrderShipmentIdentificationType", "EARoot/EA7/EA2/EA21/EA3342.htm", "5.png", "29835", "0", "", "Class0","{95753009-CC94-4591-8543-4B669E7F4C58}");
+tocTab[tocTab.length] = new Array("0.7.2.21:7", "", "«XSDcomplexType» UnitPriceType", "EARoot/EA7/EA2/EA21/EA3343.htm", "5.png", "29836", "0", "", "Class0","{4EC8D5A6-28C6-4124-89EA-501E71F5019D}");

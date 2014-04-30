@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.2.6:1", "", "Enablers", "EARoot/EA1/EA2/EA6/EA692.htm", "178.png", "106", "0", "", "Component diagram0","{110D4DF4-AD0F-47da-93B9-F1BFA7E38054}");
+tocTab[tocTab.length] = new Array("0.1.2.6.1", "1", "«SubDomain» Business Process Management", "EARoot/EA1/EA2/EA6/EA695.htm", "4.png", "", "", "{8D87EF90-2F0F-495f-A625-FFA3E15A68A3}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.2", "1", "«capability» Exception Management", "EARoot/EA1/EA2/EA6/EA696.htm", "4.png", "", "", "{A45322B0-5299-4b45-99A4-9C1D01349E66}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.3", "1", "«capability» Messaging", "EARoot/EA1/EA2/EA6/EA694.htm", "4.png", "", "", "{93BCB0F3-1D21-4036-B215-F0A9279610DA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.4", "1", "«capability» Scheduling Services", "EARoot/EA1/EA2/EA6/EA697.htm", "4.png", "", "", "{727C4094-868B-498b-B6C5-9799F24E093F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.5", "1", "«capability» Worklist Management", "EARoot/EA1/EA2/EA6/EA698.htm", "4.png", "", "", "{8645D4A2-828B-4b8a-975D-89D061B6438A}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6", "1", "«SubDomain» Integration Services", "EARoot/EA1/EA2/EA6/EA699.htm", "4.png", "", "", "{8C2782E2-85CA-4967-B3B5-5349074A0835}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.7", "1", "«SubDomain» Security Services", "EARoot/EA1/EA2/EA6/EA700.htm", "4.png", "", "", "{41835DA5-2894-4aa1-8140-5324D41FE45E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.8", "1", "«SubDomain» Knowledge & Information Management", "EARoot/EA1/EA2/EA6/EA701.htm", "4.png", "", "", "{DCA77090-17AE-4a62-8BB5-006D779EE9BA}", "Package");

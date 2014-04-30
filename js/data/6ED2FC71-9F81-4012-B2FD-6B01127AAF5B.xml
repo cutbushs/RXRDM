@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.3.1:1", "", "Common", "EARoot/EA1/EA3/EA1/EA935.htm", "175.png", "1617", "0", "", "Logical diagram0","{833BDE80-C189-42a8-B02D-AE2C2202F165}");
+tocTab[tocTab.length] = new Array("0.1.3.1.1", "1", "«ebo» irm.cmn.CodeLists", "EARoot/EA1/EA3/EA1/EA937.htm", "4.png", "", "", "{503AE5BA-AC88-44ef-B766-49F116BFB57A}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.1.2", "1", "«ebo» irm.cmn.Common", "EARoot/EA1/EA3/EA1/EA938.htm", "4.png", "", "", "{8EA2D408-A2AD-4fa0-88A8-3EA5C8B5C06D}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.1.3", "1", "«ebo» irm.cmn.DataTypes", "EARoot/EA1/EA3/EA1/EA939.htm", "4.png", "", "", "{43974615-A76D-431c-9A50-4378E38B0D1A}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.3.7.3:1", "", "ReceivedPayment", "EARoot/EA1/EA3/EA7/EA3/EA1378.htm", "175.png", "1261", "0", "", "Logical diagram0","{68C22E31-9F71-432e-B0D4-5A9D56899D79}");
+tocTab[tocTab.length] = new Array("0.1.3.7.3:2", "", "«ebo» ReceivedPayment", "EARoot/EA1/EA3/EA7/EA3/EA1380.htm", "5.png", "25597", "0", "", "Class0","{C45C784E-40D0-43fc-BC3B-2FBE29480511}");
+tocTab[tocTab.length] = new Array("0.1.3.7.3:3", "", "ReceivedPaymentAttachmentType", "EARoot/EA1/EA3/EA7/EA3/EA1381.htm", "5.png", "25595", "0", "", "Class0","{82414DB5-D3AF-4639-93E2-D6D72A80AB5D}");
+tocTab[tocTab.length] = new Array("0.1.3.7.3:4", "", "ReceivedPaymentLineAttachmentType", "EARoot/EA1/EA3/EA7/EA3/EA1382.htm", "5.png", "25600", "0", "", "Class0","{B62B6EF2-50C3-4e63-B67D-AC7BA47139D5}");
+tocTab[tocTab.length] = new Array("0.1.3.7.3:5", "", "ReceivedPaymentLineType", "EARoot/EA1/EA3/EA7/EA3/EA1383.htm", "5.png", "25601", "0", "", "Class0","{73AC3360-EFAD-46c9-93EA-8D83C9725570}");

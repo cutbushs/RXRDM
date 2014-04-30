@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.2:1", "", "STRATIS", "EARoot/EA1/EA1/EA4/EA2/EA106.htm", "181.png", "126", "0", "", "Activity diagram0","{0CBF69AD-446D-4232-8B9E-FFBCBA862197}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:2", "", "completeActivity", "EARoot/EA1/EA1/EA4/EA2/EA108.htm", "21.png", "1212", "0", "", "Activity0","{FB986885-4144-4d38-BBB8-4D746E40FFBF}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:3", "", "createActivity", "EARoot/EA1/EA1/EA4/EA2/EA109.htm", "21.png", "1225", "0", "", "Activity0","{B7ED077E-DA6F-453b-96E9-2B89C99FE43F}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:4", "", "createCommunication", "EARoot/EA1/EA1/EA4/EA2/EA110.htm", "21.png", "1198", "0", "", "Activity0","{ADAABBA4-81C2-4353-85A6-F5A6D19C48F8}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:5", "", "getClientList", "EARoot/EA1/EA1/EA4/EA2/EA111.htm", "21.png", "1196", "0", "", "Activity0","{6FC063FF-9F77-4486-9473-AEF6E000689A}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:6", "", "getClientProductList", "EARoot/EA1/EA1/EA4/EA2/EA112.htm", "21.png", "1202", "0", "", "Activity0","{6C625122-8B46-4e4f-B5CD-FF7C737502BB}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:7", "", "getPaymentList", "EARoot/EA1/EA1/EA4/EA2/EA113.htm", "21.png", "1197", "0", "", "Activity0","{E020E0FC-2C5A-4e4a-82F6-9D267034ADD3}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:8", "", "getProductTypeList", "EARoot/EA1/EA1/EA4/EA2/EA114.htm", "21.png", "1203", "0", "", "Activity0","{B4256292-24D2-4473-8704-E24692C88462}");
+tocTab[tocTab.length] = new Array("0.1.1.4.2:9", "", "updateActivity", "EARoot/EA1/EA1/EA4/EA2/EA115.htm", "21.png", "1195", "0", "", "Activity0","{B25746F0-877E-46d8-BEF7-D162183B04EC}");

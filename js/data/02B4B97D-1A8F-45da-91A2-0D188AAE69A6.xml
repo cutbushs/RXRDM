@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.5.1", "1", "«capability» Accounts Payable", "EARoot/EA1/EA2/EA5/EA5/EA548.htm", "4.png", "", "", "{801C3E0B-9399-404b-B1A2-06868FEE3423}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.2", "1", "«capability» Accounts Receivable", "EARoot/EA1/EA2/EA5/EA5/EA549.htm", "4.png", "", "", "{BF395AFB-C857-40c8-ADBF-C6660A87DF43}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.3", "1", "«capability» Financial Reporting", "EARoot/EA1/EA2/EA5/EA5/EA551.htm", "4.png", "", "", "{75EB0307-DAAD-40bc-A2D3-348D10793EA7}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.4", "", "«capability» Financial Risk Management", "EARoot/EA1/EA2/EA5/EA5/EA552.htm", "4.png", "", "", "{8374965E-8DC4-48e4-AF65-153F087E532E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.5", "1", "«capability» General Ledger", "EARoot/EA1/EA2/EA5/EA5/EA550.htm", "4.png", "", "", "{74EA79F8-8B2B-4067-8328-62BEA0AF6E39}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.6", "", "«capability» Manage Funds", "EARoot/EA1/EA2/EA5/EA5/EA553.htm", "4.png", "", "", "{03F0675A-43E6-4629-A6A2-E896CA15EF10}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.7", "1", "«capability» Manage Insurance", "EARoot/EA1/EA2/EA5/EA5/EA554.htm", "4.png", "", "", "{20D0E71D-B9E3-440f-9650-6692E033BBE4}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.8", "", "«capability» Manage Taxes", "EARoot/EA1/EA2/EA5/EA5/EA555.htm", "4.png", "", "", "{E2C2B14D-CD14-438f-BD08-9A9D99ECC344}", "Package");

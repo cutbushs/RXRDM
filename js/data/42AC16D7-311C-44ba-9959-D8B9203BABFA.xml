@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2.7.1.1", "1", "«capability» Delivery", "EARoot/EA1/EA2/EA7/EA1/EA869.htm", "4.png", "", "", "{94992430-3ABD-475d-ACE2-7FCB294CF902}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.7.1.2", "", "«capability» Design", "EARoot/EA1/EA2/EA7/EA1/EA870.htm", "4.png", "", "", "{088EDB8F-FE8B-4d16-A9EB-073627665856}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.7.1.3", "", "«capability» Market Research", "EARoot/EA1/EA2/EA7/EA1/EA871.htm", "4.png", "", "", "{BAE03866-BF3D-46d5-A6C8-F302A453E2A8}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.7.1.4", "", "«capability» Opportunity Analysis", "EARoot/EA1/EA2/EA7/EA1/EA872.htm", "4.png", "", "", "{7F11A066-9DC0-4231-BA5D-5F6F249BA8ED}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.7.1.5", "", "«capability» Opportunity Identification", "EARoot/EA1/EA2/EA7/EA1/EA873.htm", "4.png", "", "", "{E56F8CC8-CAF4-4fee-9E98-A3E5A1DBF715}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.7.1.6", "", "«capability» Planning", "EARoot/EA1/EA2/EA7/EA1/EA874.htm", "4.png", "", "", "{815FC829-3C18-412d-BB80-40E6FF8D48D4}", "Package");

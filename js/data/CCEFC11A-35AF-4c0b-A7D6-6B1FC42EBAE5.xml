@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.7.1.1.2:1", "", "Messages", "EARoot/EA7/EA1/EA1/EA2/EA2536.htm", "175.png", "1891", "0", "", "Logical diagram0","{CF8F1D99-DA83-4e54-9DEF-1ACEF2FA2BC6}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:2", "", "«WSDLmessage» createFaultMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2538.htm", "5.png", "30192", "0", "", "Class0","{A85101E3-55A8-4bde-80DB-6B04717BD224}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:3", "", "«WSDLmessage» createMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2539.htm", "5.png", "30190", "0", "", "Class0","{018FBEF6-2527-4425-A6FD-FCD377EB9D68}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:4", "", "«WSDLmessage» createResponseMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2540.htm", "5.png", "30191", "0", "", "Class0","{20CBE6AB-9CA7-4247-BB18-1E09DB57384B}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:5", "", "«WSDLmessage» processFaultMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2541.htm", "5.png", "30195", "0", "", "Class0","{4D4CF4FD-0208-49a5-98D6-16B806E69DFA}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:6", "", "«WSDLmessage» processListFaultMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2542.htm", "5.png", "30580", "0", "", "Class0","{BA17B205-5F59-41ce-A39B-73D7205188E6}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:7", "", "«WSDLmessage» processListMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2543.htm", "5.png", "30578", "0", "", "Class0","{720502A6-94BA-4827-8A34-5CA82E5C590E}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:8", "", "«WSDLmessage» processListResponseMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2544.htm", "5.png", "30579", "0", "", "Class0","{CBEFD0D6-85E7-4866-B97A-8E63DE5FF0C7}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:9", "", "«WSDLmessage» processMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2545.htm", "5.png", "30193", "0", "", "Class0","{0CFAB6CD-11F8-4d6c-9A19-579134675088}");
+tocTab[tocTab.length] = new Array("0.7.1.1.2:10", "", "«WSDLmessage» processResponseMsgType", "EARoot/EA7/EA1/EA1/EA2/EA2546.htm", "5.png", "30194", "0", "", "Class0","{D0CB9B6E-4974-461b-99DE-B9B342F28B3D}");

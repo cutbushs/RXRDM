@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.3.6.4:4", "", "irm.ebo.CustomerParty", "EARoot/EA1/EA3/EA6/EA4/EA1274.htm", "175.png", "123", "0", "", "Logical diagram0","{C6C9D9CB-2F29-44b5-B695-12B96A6F5AF0}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:5", "", "«ebo» CustomerParty", "EARoot/EA1/EA3/EA6/EA4/EA1277.htm", "5.png", "8760", "0", "", "Class0","{8E7C806D-4768-4395-9C9F-2FD5F7E3AEB8}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:6", "", "CustomerPartyAsset", "EARoot/EA1/EA3/EA6/EA4/EA1278.htm", "5.png", "30568", "0", "", "Class0","{153244C3-9189-4de6-9D64-B3CAA7951B7B}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:7", "", "CustomerPartyClientService", "EARoot/EA1/EA3/EA6/EA4/EA1279.htm", "5.png", "11391", "0", "", "Class0","{FEFF4576-8152-4096-91FF-231C039AC4FC}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:8", "", "CustomerPartyFund", "EARoot/EA1/EA3/EA6/EA4/EA1280.htm", "5.png", "9915", "0", "", "Class0","{9A9F1DCA-A928-47b1-95D0-86D82950904C}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:9", "", "CustomerPartyIncome", "EARoot/EA1/EA3/EA6/EA4/EA1281.htm", "5.png", "30567", "0", "", "Class0","{D007A753-1E58-49ed-AA67-00F86DC66FC0}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:10", "", "CustomerPartyBankAccount", "EARoot/EA1/EA3/EA6/EA4/EA1282.htm", "5.png", "25928", "0", "", "Class0","{097324B0-6289-46b2-9C74-6D9EC0923CAC}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:1", "", "CustomerPartyClientServiceType", "EARoot/EA1/EA3/EA6/EA4/EA1268.htm", "175.png", "406", "11391", "", "Logical diagram0","{F7020EDA-2BE8-44e8-85C0-878BD7D97ED1}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:2", "", "CustomerPartyEBOType", "EARoot/EA1/EA3/EA6/EA4/EA1270.htm", "175.png", "412", "8760", "", "Logical diagram0","{F46E161E-848D-4ab7-B311-35D5DA9085E6}");
+tocTab[tocTab.length] = new Array("0.1.3.6.4:3", "", "CustomerPartyFundType", "EARoot/EA1/EA3/EA6/EA4/EA1272.htm", "175.png", "587", "9915", "", "Logical diagram0","{8DE3764F-FD21-4526-9134-D87D01FA9D95}");

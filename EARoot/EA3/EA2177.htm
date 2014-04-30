@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Conceptual Architecture</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA2178.png" usemap="#EA2178" border="0" />
+
+<MAP NAME="EA2178">
+<area shape="rect" coords="737,133,750,173" href="./EA1/EA2288.htm" target="_self">
+<area shape="rect" coords="975,525,1015,538" href="EA2254.htm" target="_self">
+<area shape="rect" coords="975,462,1015,475" href="EA2248.htm" target="_self">
+<area shape="rect" coords="50,187,149,239" href="EA2231.htm" target="_self">
+<area shape="rect" coords="135,728,248,780" href="EA2181.htm" target="_self">
+<area shape="rect" coords="135,671,248,723" href="EA2218.htm" target="_self">
+<area shape="rect" coords="579,92,689,152" href="./EA1/EA2293.htm" target="_self">
+<area shape="rect" coords="460,91,570,151" href="EA2217.htm" target="_self">
+<area shape="rect" coords="223,92,333,152" href="EA2211.htm" target="_self">
+<area shape="rect" coords="224,23,334,83" href="./EA1/EA2292.htm" target="_self">
+<area shape="rect" coords="10,60,184,127" href="EA2190.htm" target="_self">
+<area shape="rect" coords="941,648,1114,781" href="EA2209.htm" target="_self">
+<area shape="rect" coords="344,25,454,85" href="./EA1/EA2290.htm" target="_self">
+<area shape="rect" coords="967,74,1077,134" href="./EA1/EA2299.htm" target="_self">
+<area shape="rect" coords="843,74,953,134" href="./EA1/EA2300.htm" target="_self">
+<area shape="rect" coords="718,74,828,134" href="./EA1/EA2301.htm" target="_self">
+<area shape="rect" coords="701,39,1092,157" href="./EA1/EA2291.htm" target="_self">
+<area shape="rect" coords="592,563,701,615" href="EA2253.htm" target="_self">
+<area shape="rect" coords="791,187,890,239" href="./EA5/EA2321.htm" target="_self">
+<area shape="rect" coords="49,308,148,360" href="EA2242.htm" target="_self">
+<area shape="rect" coords="897,308,996,360" href="EA2232.htm" target="_self">
+<area shape="rect" coords="897,187,996,239" href="./EA4/EA2314.htm" target="_self">
+<area shape="rect" coords="1003,187,1102,239" href="./EA4/EA2316.htm" target="_self">
+<area shape="rect" coords="486,498,716,550" href="EA2249.htm" target="_self">
+<area shape="rect" coords="579,187,678,239" href="./EA2/EA2304.htm" target="_self">
+<area shape="rect" coords="685,187,784,239" href="./EA2/EA2305.htm" target="_self">
+<area shape="rect" coords="262,187,361,239" href="./EA4/EA2315.htm" target="_self">
+<area shape="rect" coords="473,308,572,360" href="EA2261.htm" target="_self">
+<area shape="rect" coords="49,246,148,298" href="EA2239.htm" target="_self">
+<area shape="rect" coords="12,728,125,780" href="./EA3/EA2309.htm" target="_self">
+<area shape="rect" coords="405,683,515,743" href="EA2259.htm" target="_self">
+<area shape="rect" coords="157,375,787,427" href="./EA4/EA2318.htm" target="_self">
+<area shape="rect" coords="1007,307,1106,359" href="./EA5/EA2322.htm" target="_self">
+<area shape="rect" coords="651,683,714,742" href="EA2257.htm" target="_self">
+<area shape="rect" coords="156,259,1098,286" href="./EA4/EA2317.htm" target="_self">
+<area shape="rect" coords="1027,451,1117,491" href="EA2225.htm" target="_self">
+<area shape="rect" coords="1032,514,1122,554" href="EA2234.htm" target="_self">
+<area shape="rect" coords="261,308,360,360" href="EA2226.htm" target="_self">
+<area shape="rect" coords="866,450,956,491" href="EA2233.htm" target="_self">
+<area shape="rect" coords="786,450,876,491" href="EA2241.htm" target="_self">
+<area shape="rect" coords="706,450,796,491" href="EA2235.htm" target="_self">
+<area shape="rect" coords="742,651,892,781" href="EA2240.htm" target="_self">
+<area shape="rect" coords="524,684,634,744" href="EA2258.htm" target="_self">
+<area shape="rect" coords="287,678,397,738" href="EA2256.htm" target="_self">
+<area shape="rect" coords="267,650,733,780" href="EA2229.htm" target="_self">
+<area shape="rect" coords="579,555,962,629" href="EA2252.htm" target="_self">
+<area shape="rect" coords="486,557,571,629" href="EA2228.htm" target="_self">
+<area shape="rect" coords="473,187,572,239" href="./EA5/EA2320.htm" target="_self">
+<area shape="rect" coords="725,498,962,550" href="EA2250.htm" target="_self">
+<area shape="rect" coords="281,457,378,629" href="EA2251.htm" target="_self">
+<area shape="rect" coords="135,614,248,666" href="./EA3/EA2308.htm" target="_self">
+<area shape="rect" coords="12,614,125,666" href="./EA3/EA2307.htm" target="_self">
+<area shape="rect" coords="12,671,125,723" href="./EA3/EA2312.htm" target="_self">
+<area shape="rect" coords="155,308,254,360" href="EA2236.htm" target="_self">
+<area shape="rect" coords="367,308,466,360" href="EA2238.htm" target="_self">
+<area shape="rect" coords="791,308,890,360" href="EA2230.htm" target="_self">
+<area shape="rect" coords="579,308,678,360" href="EA2237.htm" target="_self">
+<area shape="rect" coords="12,557,125,609" href="./EA3/EA2311.htm" target="_self">
+<area shape="rect" coords="135,557,248,609" href="./EA3/EA2310.htm" target="_self">
+<area shape="rect" coords="16,499,245,551" href="./EA3/EA2306.htm" target="_self">
+<area shape="rect" coords="368,187,467,239" href="./EA5/EA2323.htm" target="_self">
+<area shape="rect" coords="685,308,784,360" href="./EA5/EA2319.htm" target="_self">
+<area shape="rect" coords="385,458,482,627" href="EA2255.htm" target="_self">
+<area shape="rect" coords="270,437,976,635" href="EA2227.htm" target="_self">
+<area shape="rect" coords="210,8,1108,169" href="./EA1/EA2283.htm" target="_self">
+<area shape="rect" coords="10,8,202,53" href="EA2187.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Conceptual Architecture : Component diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">1/08/2013 1:26:48 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">21/08/2013 1:55:14 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">cutbushs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{87E0FBC2-65BC-43fd-8CB8-415E3D762786}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

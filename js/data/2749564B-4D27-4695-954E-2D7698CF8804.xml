@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.7.1.7.2:1", "", "Messages", "EARoot/EA7/EA1/EA7/EA2/EA2716.htm", "175.png", "1960", "0", "", "Logical diagram0","{F9E5BC45-74CB-4a1d-B17C-1FDF1D17B199}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:2", "", "«WSDLmessage» createFaultMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2718.htm", "5.png", "30961", "0", "", "Class0","{97D0676B-299B-4e83-B2D6-E84FDA55830A}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:3", "", "«WSDLmessage» createMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2719.htm", "5.png", "30959", "0", "", "Class0","{60C7D8CC-97D0-4e2b-B415-620A3918DF6A}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:4", "", "«WSDLmessage» createResponseMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2720.htm", "5.png", "30960", "0", "", "Class0","{9F2B117F-3B6C-4ffa-80F7-67DBC47D927A}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:5", "", "«WSDLmessage» publishFaultMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2721.htm", "5.png", "30964", "0", "", "Class0","{4CA7268F-D99C-4dd5-8756-0A66FCAAD6ED}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:6", "", "«WSDLmessage» publishListFaultMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2722.htm", "5.png", "30967", "0", "", "Class0","{C92D486F-2478-49c6-B1BB-EDD778F5F060}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:7", "", "«WSDLmessage» publishListMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2723.htm", "5.png", "30965", "0", "", "Class0","{3DEB2E45-19EB-470b-8E50-9DDBFDF97EC6}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:8", "", "«WSDLmessage» publishListResponseMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2724.htm", "5.png", "30966", "0", "", "Class0","{C76EC294-89AB-454f-8901-4FAFD7E77B06}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:9", "", "«WSDLmessage» publishMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2725.htm", "5.png", "30962", "0", "", "Class0","{BD850795-6173-4017-9B8C-385F80CFF681}");
+tocTab[tocTab.length] = new Array("0.7.1.7.2:10", "", "«WSDLmessage» publishResponseMsgType", "EARoot/EA7/EA1/EA7/EA2/EA2726.htm", "5.png", "30963", "0", "", "Class0","{7330D840-84F0-48c5-B306-8D52FA7D2283}");

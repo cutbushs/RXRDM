@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.2:1", "", "brm.sm.cr.evs.CustomerParty", "EARoot/EA1/EA2/EA3/EA2/EA1/EA2/EA396.htm", "178.png", "1606", "0", "", "Component diagram0","{F3A384FA-4A63-4e6f-B1D3-AE50F9013147}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.2:2", "", "«evs» brm.sm.cr.evs.CustomerParty", "EARoot/EA1/EA2/EA3/EA2/EA1/EA2/EA408.htm", "8.png", "27566", "0", "", "Interface0","{3276F4B1-1220-4344-A801-4E50EAD40848}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.2:3", "", "«capability» brm.sm.cr.CustomerParty", "EARoot/EA1/EA2/EA3/EA2/EA1/EA2/EA409.htm", "10.png", "27569", "0", "", "Component0","{5A7EA0BC-B1C7-4064-82A2-6CBDD611A917}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.2.1", "1", "«ivs» brm.sm.cr.ivs.CustomerParty", "EARoot/EA1/EA2/EA3/EA2/EA1/EA2/EA404.htm", "4.png", "", "", "{7F3D1F1C-AE8B-4858-8A09-4304811F0103}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.9.1.15:1", "", "Parallel Split", "EARoot/EA9/EA1/EA15/EA3831.htm", "189.png", "1336", "0", "", "Analysis diagram0","{741B9CDD-C0B1-4d9e-A3E3-5A54B0D0EEED}");
+tocTab[tocTab.length] = new Array("0.9.1.15:2", "", "«Gateway» ", "EARoot/EA9/EA1/EA15/EA3833.htm", "56.png", "26154", "0", "", "Decision0","{65900143-7BB6-4757-98DE-BB1042808C15}");
+tocTab[tocTab.length] = new Array("0.9.1.15:3", "", "«Activity» Activity1", "EARoot/EA9/EA1/EA15/EA3834.htm", "21.png", "26153", "0", "", "Activity0","{813482B2-4806-4981-BA08-D58B7AD596A5}");
+tocTab[tocTab.length] = new Array("0.9.1.15:4", "", "«Activity» Activity2", "EARoot/EA9/EA1/EA15/EA3835.htm", "21.png", "26155", "0", "", "Activity0","{E1B52091-FAD8-4721-9F39-9F42899A23C5}");
+tocTab[tocTab.length] = new Array("0.9.1.15:5", "", "«Activity» Activity3", "EARoot/EA9/EA1/EA15/EA3836.htm", "21.png", "26156", "0", "", "Activity0","{605164D4-E42A-4bc0-8D2F-B24A6E026F30}");

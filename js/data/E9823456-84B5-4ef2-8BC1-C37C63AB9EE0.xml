@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.7.2:1", "", "Security Services", "EARoot/EA1/EA2/EA6/EA7/EA2/EA844.htm", "10.png", "1037", "0", "", "Component0","{17CD21C2-A992-4a95-B1EB-CB43B4CE1097}");
+tocTab[tocTab.length] = new Array("0.1.2.6.7.2:2", "", "«Functional» Network Security", "EARoot/EA1/EA2/EA6/EA7/EA2/EA845.htm", "190.png", "1038", "1037", "", "Feature0","{825C8E05-3D75-4ff0-AAA0-626D19FFC624}");

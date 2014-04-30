@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.2:1", "", "BRM_by_capability", "EARoot/EA1/EA2/EA116.htm", "178.png", "69", "0", "", "Component diagram0","{5353D4F8-F11D-4ef0-A647-097592DBC7E3}");
+tocTab[tocTab.length] = new Array("0.1.2:2", "", "BRM_by_name", "EARoot/EA1/EA2/EA118.htm", "178.png", "70", "0", "", "Component diagram0","{38554AA4-B31F-4014-995A-EA44E550DFE3}");
+tocTab[tocTab.length] = new Array("0.1.2.1", "1", "Channel Management", "EARoot/EA1/EA2/EA130.htm", "4.png", "", "", "{630773C7-DE80-41f6-90A3-7567E44F68FA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.2", "1", "«SubDomain» Corporate Strategy", "EARoot/EA1/EA2/EA131.htm", "4.png", "", "", "{78890A62-E7D9-4d24-8BCD-F68D11A6466F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3", "1", "«SubDomain» Sales and Marketing", "EARoot/EA1/EA2/EA132.htm", "4.png", "", "", "{01C069BE-99F0-4bd7-8CC5-8D618184E694}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4", "1", "Outcome Improvement", "EARoot/EA1/EA2/EA133.htm", "4.png", "", "", "{D3614D27-AFC4-469e-A317-5D865D475787}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5", "1", "Enterprise Management", "EARoot/EA1/EA2/EA134.htm", "4.png", "", "", "{06F94302-9BCB-4207-8B74-C69B8212DBD4}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6", "1", "«SubDomain» Enablers", "EARoot/EA1/EA2/EA135.htm", "4.png", "", "", "{80BE05DF-2C04-42c0-8F4A-9C9CA184B7D1}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.7", "1", "«SubDomain» Deliver Services", "EARoot/EA1/EA2/EA136.htm", "4.png", "", "", "{70232A5D-997F-4c1a-9743-A6FA9C00BEBE}", "Package");

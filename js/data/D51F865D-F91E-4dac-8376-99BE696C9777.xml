@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.2.25:1", "", "irm.pay.ebo.ReceivedPayment_1.0", "EARoot/EA7/EA2/EA25/EA3392.htm", "175.png", "1823", "0", "", "Logical diagram0","{76C9EB6C-D8C5-4488-B4BD-C7AD5014902B}");
+tocTab[tocTab.length] = new Array("0.7.2.25:2", "", "«XSDcomplexType» ReceivedPaymentAttachmentTypeType", "EARoot/EA7/EA2/EA25/EA3394.htm", "5.png", "29796", "0", "", "Class0","{127C2635-1BAB-47f8-B37F-DBB937C6FDBE}");
+tocTab[tocTab.length] = new Array("0.7.2.25:3", "", "«XSDtopLevelElement» receivedPaymentEBO", "EARoot/EA7/EA2/EA25/EA3395.htm", "5.png", "29795", "0", "", "Class0","{943A39AA-4CDB-40c5-A530-CFC04A246E6A}");
+tocTab[tocTab.length] = new Array("0.7.2.25:4", "", "«XSDcomplexType» ReceivedPaymentLineAttachmentTypeType", "EARoot/EA7/EA2/EA25/EA3396.htm", "5.png", "29797", "0", "", "Class0","{E0B32A56-B846-4061-8C24-666A770FC6C9}");
+tocTab[tocTab.length] = new Array("0.7.2.25:5", "", "«XSDcomplexType» ReceivedPaymentLineTypeType", "EARoot/EA7/EA2/EA25/EA3397.htm", "5.png", "29798", "0", "", "Class0","{100D05BE-0A70-4f1b-B8FA-56D880B9BE6C}");
+tocTab[tocTab.length] = new Array("0.7.2.25:6", "", "«XSDcomplexType» ReceivedPaymentType", "EARoot/EA7/EA2/EA25/EA3398.htm", "5.png", "29794", "0", "", "Class0","{5B7FC70A-3E6A-4489-9D55-A5ED9D29CE65}");

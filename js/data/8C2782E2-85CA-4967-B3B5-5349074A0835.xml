@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.6.1", "1", "«capability» Application Integration", "EARoot/EA1/EA2/EA6/EA6/EA772.htm", "4.png", "", "", "{E0FF5264-A8CD-4790-8AAF-CDA61796BA3D}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.2", "1", "«ebo» brm.en.int.action", "EARoot/EA1/EA2/EA6/EA6/EA771.htm", "4.png", "", "", "{3E19A2A1-5A15-431f-AC4D-D5CA6F876412}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.3", "1", "«capability» Data Integration", "EARoot/EA1/EA2/EA6/EA6/EA773.htm", "4.png", "", "", "{20CA5EC0-1E1D-4f9f-A82A-D0EB76BC36E2}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.4", "", "«capability» Event Delivery", "EARoot/EA1/EA2/EA6/EA6/EA774.htm", "4.png", "", "", "{0775423A-33B2-4877-A83E-D9C325C20ADF}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.5", "1", "«capability» Light Weight Orchestration", "EARoot/EA1/EA2/EA6/EA6/EA775.htm", "4.png", "", "", "{EC46E8DF-66E2-4ad4-8CBE-E8AE7CB8928E}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.6", "1", "«capability» Registry", "EARoot/EA1/EA2/EA6/EA6/EA776.htm", "4.png", "", "", "{127ABED2-6FCC-4b6a-B316-05FAA8E5F787}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.7", "", "«capability» Service Monitoring", "EARoot/EA1/EA2/EA6/EA6/EA777.htm", "4.png", "", "", "{A3F5CCD5-A6BC-4769-A495-6F7B281CB976}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6.6.8", "1", "«ebo» brm.en.int.EBMHeader", "EARoot/EA1/EA2/EA6/EA6/EA778.htm", "4.png", "", "", "{9F3A372A-76D9-4db5-B326-0109992A0BB7}", "Package");

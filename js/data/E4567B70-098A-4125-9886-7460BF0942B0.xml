@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:1", "", "CustomerPartyEBM", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA385.htm", "175.png", "268", "0", "", "Logical diagram0","{E5C8A64A-37DC-4293-910F-ECC97091FDF5}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:2", "", "«ebm» CustomerPartyFault", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA387.htm", "5.png", "18741", "0", "", "Class0","{296F18D6-C8C1-4cb3-A3F5-DE3DBDE27BE7}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:3", "", "«ebm» QueryCustomerParty", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA388.htm", "5.png", "9385", "0", "", "Class0","{48DC7BB2-C17E-4995-AFA9-73960B3162B9}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:4", "", "QueryCustomerPartyBody", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA389.htm", "5.png", "9383", "0", "", "Class0","{55656A22-298A-4394-B5E5-6817B6B5D968}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:5", "", "«ebm» QueryCustomerPartyList", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA390.htm", "5.png", "9388", "0", "", "Class0","{D8FA31C2-AE59-4a02-A3DB-6074A5DC18B1}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:6", "", "QueryCustomerPartyListBody", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA391.htm", "5.png", "9386", "0", "", "Class0","{A49AF55E-4FB4-47ca-8C74-5A66C12433D0}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:7", "", "«ebm» QueryCustomerPartyListResponse", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA392.htm", "5.png", "9392", "0", "", "Class0","{F4BC145E-7834-4562-AF7B-4DD391825E1C}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:8", "", "QueryCustomerPartyListResponseBody", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA393.htm", "5.png", "9390", "0", "", "Class0","{E18FDE03-68FB-4d56-BA45-AEE873731F09}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:9", "", "«ebm» QueryCustomerPartyResponse", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA394.htm", "5.png", "9397", "0", "", "Class0","{091D91F0-CE3F-454f-BDD6-1C15C4B664FB}");
+tocTab[tocTab.length] = new Array("0.1.2.3.2.1.1:10", "", "QueryCustomerPartyResponseBody", "EARoot/EA1/EA2/EA3/EA2/EA1/EA1/EA395.htm", "5.png", "9395", "0", "", "Class0","{84085610-F677-4fdf-AA0A-8E3E21323ABD}");

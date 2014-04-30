@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.7.1.4.4:1", "", "Services", "EARoot/EA7/EA1/EA4/EA4/EA2643.htm", "175.png", "1844", "0", "", "Logical diagram0","{3CF1E084-CC83-446a-82FD-FC5FC32B9A21}");
+tocTab[tocTab.length] = new Array("0.7.1.4.4:2", "", "«WSDLservice» brm.em.fin.ap.ivs.PayableInvoice.service", "EARoot/EA7/EA1/EA4/EA4/EA2645.htm", "8.png", "29939", "0", "", "Interface0","{D8C9C6C8-B636-48da-8A57-BA1395D8C878}");

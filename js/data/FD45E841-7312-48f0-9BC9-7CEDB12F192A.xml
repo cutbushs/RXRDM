@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.7.2.33:1", "", "irm.svc.ebo.Claim_1.0", "EARoot/EA7/EA2/EA33/EA3507.htm", "175.png", "1927", "0", "", "Logical diagram0","{22EA8720-0E04-4b24-BDAA-ECA95C189DAD}");
+tocTab[tocTab.length] = new Array("0.7.2.33:2", "", "«XSDcomplexType» ClaimDisputeType", "EARoot/EA7/EA2/EA33/EA3509.htm", "5.png", "30656", "0", "", "Class0","{829AFE7F-BADA-450c-891F-F0E3BBEA1AD2}");
+tocTab[tocTab.length] = new Array("0.7.2.33:3", "", "«XSDcomplexType» ClaimDocumentsType", "EARoot/EA7/EA2/EA33/EA3510.htm", "5.png", "30658", "0", "", "Class0","{5CCF4C02-C3A3-4cdd-AEB1-C3A865F89F63}");
+tocTab[tocTab.length] = new Array("0.7.2.33:4", "", "«XSDcomplexType» ClaimDocumentType", "EARoot/EA7/EA2/EA33/EA3511.htm", "5.png", "30657", "0", "", "Class0","{521C68EF-3936-4cc4-82B4-15490709A1F0}");
+tocTab[tocTab.length] = new Array("0.7.2.33:5", "", "«XSDtopLevelElement» claimEBO", "EARoot/EA7/EA2/EA33/EA3512.htm", "5.png", "30655", "0", "", "Class0","{46B9196A-51E0-461f-AF4D-272257D621D1}");
+tocTab[tocTab.length] = new Array("0.7.2.33:6", "", "«XSDcomplexType» ClaimFormRequirementsType", "EARoot/EA7/EA2/EA33/EA3513.htm", "5.png", "30659", "0", "", "Class0","{E8A0819B-7FF6-4ea1-95D7-68542A940E46}");
+tocTab[tocTab.length] = new Array("0.7.2.33:7", "", "«XSDcomplexType» ClaimOriginBusinessUnitType", "EARoot/EA7/EA2/EA33/EA3514.htm", "5.png", "30660", "0", "", "Class0","{EA50CF5C-436A-48e9-BCBF-C20D2687CCED}");
+tocTab[tocTab.length] = new Array("0.7.2.33:8", "", "«XSDcomplexType» ClaimParticipantType", "EARoot/EA7/EA2/EA33/EA3515.htm", "5.png", "30661", "0", "", "Class0","{0291C7F9-3E4A-4cd8-96CE-D1FBA7F88DB5}");
+tocTab[tocTab.length] = new Array("0.7.2.33:9", "", "«XSDcomplexType» ClaimProcessOutcomeType", "EARoot/EA7/EA2/EA33/EA3516.htm", "5.png", "30662", "0", "", "Class0","{82514CD8-4E99-418a-84BE-3922FF677ADC}");
+tocTab[tocTab.length] = new Array("0.7.2.33:10", "", "«XSDcomplexType» ClaimProcessStageType", "EARoot/EA7/EA2/EA33/EA3517.htm", "5.png", "30663", "0", "", "Class0","{E30A71D3-43CE-4b70-958D-8A829E69E953}");
+tocTab[tocTab.length] = new Array("0.7.2.33:11", "", "«XSDcomplexType» ClaimReasonType", "EARoot/EA7/EA2/EA33/EA3518.htm", "5.png", "30664", "0", "", "Class0","{4C3F7B86-50D3-4254-9D58-A15A77F68869}");
+tocTab[tocTab.length] = new Array("0.7.2.33:12", "", "«XSDcomplexType» ClaimType", "EARoot/EA7/EA2/EA33/EA3519.htm", "5.png", "30654", "0", "", "Class0","{6417CD15-00F0-4042-9E0D-C6DD3E447601}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4:1", "", "Unstructured Information", "EARoot/EA1/EA2/EA6/EA8/EA4/EA861.htm", "175.png", "108", "0", "", "Logical diagram0","{28BC2F01-E896-4606-975A-B7E24CFD337C}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4:2", "", "«Functional» Content Management", "EARoot/EA1/EA2/EA6/EA8/EA4/EA863.htm", "190.png", "1058", "0", "", "Feature0","{9C3F2E7B-8214-46d3-B449-5D8A3CECD12B}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4:3", "", "«Functional» Document Management", "EARoot/EA1/EA2/EA6/EA8/EA4/EA864.htm", "190.png", "1059", "0", "", "Feature0","{E78F910E-936F-469f-9566-B522D077932F}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4:4", "", "External Data Links", "EARoot/EA1/EA2/EA6/EA8/EA4/EA865.htm", "10.png", "1055", "0", "", "Component0","{77B46CFA-4DFE-4aa2-A730-FD743EFAAF0B}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4:5", "", "«Functional» Library & Records Management", "EARoot/EA1/EA2/EA6/EA8/EA4/EA866.htm", "190.png", "1057", "0", "", "Feature0","{1A2B04C6-297F-4a34-A8D9-C722CBB6AB9C}");
+tocTab[tocTab.length] = new Array("0.1.2.6.8.4:6", "", "Unstructured Data", "EARoot/EA1/EA2/EA6/EA8/EA4/EA867.htm", "10.png", "1056", "0", "", "Component0","{DDBBC15A-3BBA-4aaf-9932-8F89F9E1F0E2}");

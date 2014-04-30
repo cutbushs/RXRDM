@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.7.2.12:1", "", "irm.cmn.CodeLists_1.0", "EARoot/EA7/EA2/EA12/EA3219.htm", "175.png", "1810", "0", "", "Logical diagram0","{E25B6897-9FA7-4bc0-B3C9-5A1AE5492B67}");
+tocTab[tocTab.length] = new Array("0.7.2.12:2", "", "«enumeration» ActionCodeType", "EARoot/EA7/EA2/EA12/EA3221.htm", "5.png", "29598", "0", "", "Class0","{3F6494C6-4A0B-42ab-BF95-D92042E72ED3}");
+tocTab[tocTab.length] = new Array("0.7.2.12:3", "", "«enumeration» AnyDateTimePointPrecisionCodeType", "EARoot/EA7/EA2/EA12/EA3222.htm", "5.png", "29599", "0", "", "Class0","{9FEF6DD4-444F-43d6-87BE-C7615932E710}");
+tocTab[tocTab.length] = new Array("0.7.2.12:4", "", "«XSDcomplexType» BusinessScopeCodeType", "EARoot/EA7/EA2/EA12/EA3223.htm", "5.png", "29600", "0", "", "Class0","{3BBA6DC2-F9DA-4d92-A8DC-AAF2F72B0F01}");
+tocTab[tocTab.length] = new Array("0.7.2.12:5", "", "«enumeration» DebugLevelCodeType", "EARoot/EA7/EA2/EA12/EA3224.htm", "5.png", "29601", "0", "", "Class0","{996423D6-CD01-4e7a-8363-FD0F5A83EC33}");
+tocTab[tocTab.length] = new Array("0.7.2.12:6", "", "«enumeration» ImplementationCodeType", "EARoot/EA7/EA2/EA12/EA3225.htm", "5.png", "29602", "0", "", "Class0","{4CBE8899-7467-4b7c-BB5E-8571B67BF3C8}");
+tocTab[tocTab.length] = new Array("0.7.2.12:7", "", "«XSDcomplexType» LanguageCodeType", "EARoot/EA7/EA2/EA12/EA3226.htm", "5.png", "29603", "0", "", "Class0","{7336DAD8-734C-4efe-8E8B-35EC98BAD35B}");
+tocTab[tocTab.length] = new Array("0.7.2.12:8", "", "«enumeration» LogicalOperatorCodeType", "EARoot/EA7/EA2/EA12/EA3227.htm", "5.png", "29604", "0", "", "Class0","{92C7D063-3DF4-4e49-85F2-7729A32DA31C}");
+tocTab[tocTab.length] = new Array("0.7.2.12:9", "", "«enumeration» LogicalValueType", "EARoot/EA7/EA2/EA12/EA3228.htm", "5.png", "29605", "0", "", "Class0","{DBC01D41-06B0-460d-B459-90920A7CD1BF}");
+tocTab[tocTab.length] = new Array("0.7.2.12:10", "", "«enumeration» MonthValueType", "EARoot/EA7/EA2/EA12/EA3229.htm", "5.png", "29606", "0", "", "Class0","{C5658959-2BD1-4c23-B94F-4C242DDFA14C}");
+tocTab[tocTab.length] = new Array("0.7.2.12:11", "", "«enumeration» QueryOperatorCodeType", "EARoot/EA7/EA2/EA12/EA3230.htm", "5.png", "29607", "0", "", "Class0","{396C2E0F-D9F8-4d0e-A653-107492250378}");
+tocTab[tocTab.length] = new Array("0.7.2.12:12", "", "«enumeration» ResponseCodeType", "EARoot/EA7/EA2/EA12/EA3231.htm", "5.png", "29608", "0", "", "Class0","{E55DD977-1397-4312-ACD2-E80BFB1CCF57}");
+tocTab[tocTab.length] = new Array("0.7.2.12:13", "", "«enumeration» SortDirectionCodeType", "EARoot/EA7/EA2/EA12/EA3232.htm", "5.png", "29609", "0", "", "Class0","{FC1B7158-D4D8-4d2d-9E37-B4305E3D2F02}");
+tocTab[tocTab.length] = new Array("0.7.2.12:14", "", "«enumeration» SyncActionCodeType", "EARoot/EA7/EA2/EA12/EA3233.htm", "5.png", "29610", "0", "", "Class0","{76CFCF6D-422D-41c1-BBEE-63FEF1C8EADE}");

@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.1.2.5:1", "", "Enteprise Management", "EARoot/EA1/EA2/EA5/EA457.htm", "178.png", "91", "0", "", "Component diagram0","{E7E52168-290E-4590-8300-92CB2C1F53BE}");
+tocTab[tocTab.length] = new Array("0.1.2.5.1", "1", "«capability» Activity Management", "EARoot/EA1/EA2/EA5/EA459.htm", "4.png", "", "", "{8E89034E-0879-4694-BB67-DFFE9540A9AD}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.2", "1", "«SubDomain» Asset and Facility Management", "EARoot/EA1/EA2/EA5/EA460.htm", "4.png", "", "", "{B4DCB767-A74B-405c-9D96-255306EF14A2}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.3", "1", "«capability» Enterprise Risk Management", "EARoot/EA1/EA2/EA5/EA461.htm", "4.png", "", "", "{ED261FDB-ED53-4e72-97EA-2815F24D141D}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.4", "1", "«capability» Environment, Health and Safety", "EARoot/EA1/EA2/EA5/EA462.htm", "4.png", "", "", "{8646CE66-A23B-45da-8F80-9E1F90ED0DB4}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.5", "1", "«SubDomain» Financial Services", "EARoot/EA1/EA2/EA5/EA463.htm", "4.png", "", "", "{02B4B97D-1A8F-45da-91A2-0D188AAE69A6}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.6", "1", "«capability» Information Technology Services", "EARoot/EA1/EA2/EA5/EA464.htm", "4.png", "", "", "{700B47E9-AECE-4008-9403-294DBA89946F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.7", "", "«capability» Legal Services", "EARoot/EA1/EA2/EA5/EA465.htm", "4.png", "", "", "{26073F5D-EEB5-44cf-BAD3-BC42A7A83477}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.8", "1", "«capability» Manage People and Culture", "EARoot/EA1/EA2/EA5/EA466.htm", "4.png", "", "", "{BD142213-E667-48d0-B5CC-843BA8DF3E7A}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.9", "1", "«capability» Stakeholder Relationship Management", "EARoot/EA1/EA2/EA5/EA467.htm", "4.png", "", "", "{5503720E-A95B-4385-947D-1DF3DEC7BD75}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.10", "1", "«SubDomain» Supply Chain Management", "EARoot/EA1/EA2/EA5/EA468.htm", "4.png", "", "", "{3BB439B5-E001-4bc1-A354-AD39A477B744}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5.11", "1", "«SubDomain» Govern Business", "EARoot/EA1/EA2/EA5/EA469.htm", "4.png", "", "", "{A8E98010-805C-46da-80F3-122979B1B79A}", "Package");

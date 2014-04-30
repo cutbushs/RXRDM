@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.2.5.5.2.1.2.1:1", "", "brm.em.fin.ar.ivs.ReceivedPayment", "EARoot/EA1/EA2/EA5/EA5/EA2/EA1/EA2/EA1/EA626.htm", "175.png", "1611", "0", "", "Logical diagram0","{54BE58DD-C95B-4896-9B7B-7E2582A4952C}");
+tocTab[tocTab.length] = new Array("0.1.2.5.5.2.1.2.1:2", "", "«ivs» brm.em.fin.ar.ivs.ReceivedPayment", "EARoot/EA1/EA2/EA5/EA5/EA2/EA1/EA2/EA1/EA634.htm", "8.png", "27788", "0", "", "Interface0","{4B382EC7-BA0C-4b80-8D24-E20318687ECC}");

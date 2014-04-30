@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Claim Workflow</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA1492.png" usemap="#EA1492" border="0" />
+
+<MAP NAME="EA1492">
+<area shape="rect" coords="40,424,153,500" href="EA1616.htm" target="_self">
+<area shape="rect" coords="401,53,511,130" href="EA1503.htm" target="_self">
+<area shape="rect" coords="965,53,1075,130" href="EA1519.htm" target="_self">
+<area shape="rect" coords="824,53,934,130" href="EA1518.htm" target="_self">
+<area shape="rect" coords="963,284,1073,361" href="EA1585.htm" target="_self">
+<area shape="rect" coords="822,285,932,362" href="EA1587.htm" target="_self">
+<area shape="rect" coords="683,53,793,130" href="EA1521.htm" target="_self">
+<area shape="rect" coords="540,287,650,364" href="EA1586.htm" target="_self">
+<area shape="rect" coords="681,286,791,363" href="EA1584.htm" target="_self">
+<area shape="rect" coords="542,53,652,130" href="EA1520.htm" target="_self">
+<area shape="rect" coords="337,288,509,365" href="EA1583.htm" target="_self">
+<area shape="rect" coords="193,53,371,130" href="EA1507.htm" target="_self">
+<area shape="rect" coords="83,53,161,130" href="EA1499.htm" target="_self">
+<area shape="rect" coords="40,237,1104,412" href="EA1513.htm" target="_self">
+<area shape="rect" coords="40,10,1106,194" href="EA1514.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Claim Workflow : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">5/12/2013 5:12:45 PM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">13/12/2013 12:04:46 PM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">cutbushs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{611D8C36-D0B4-4c79-A045-D22B22FA368F}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Business Services</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="pageHeader"></div>
+<div class="PageBody">
+	<div id="name_classifier" style="display: none;"></div>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Business Services", " : "))</script>  : Public   ActivityPartition</span>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">1/02/2013 12:14:14 PM</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">27/11/2013 10:15:47 AM</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">cutbushs</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{FD9D9174-0E74-4ebc-82BB-189FCE49444D}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"><a href="EA3623.htm">SOA Composite</a>, <a href="EA3619.htm">Process Layers</a>, <a href="EA3621.htm">Service Layers</a></td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">This is a catch-all term used to describe a service that doesn&#8217;t fit in one of the other service layers (i.e. Internal Virtual Service, Business Process, and External Virtual Service).&lt;br /&gt;&lt;/p&gt;&lt;p&gt;As such this layer is further divided into the following functional categories; Entity Service, Functional Service, Task Based Service and Utility Service.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Each business service must provide a concrete implementation of an abstract WSDL that has been designed in accordance with the STL WSDL Design Standards.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#943634&quot;&gt;&lt;b&gt;Entity Services&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;Also known as data services, these services emulate business objects within the enterprise; for example Customer, Product etc.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;The most common use of Entity services is to represent data entities held in a relational database and provides the corresponding lifecycle (i.e. create, read, update and delete) and query operations.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Entity services can be used within multiple contexts; this makes them excellent candidates for re-use.&#160; &lt;br /&gt;&lt;/p&gt;&lt;p&gt;To promote reuse, the amount of business specific logic (such as validation) within the service should be minimized.&#160; For this reason, an Entity Service should not be directly exposed to the external service layer; rather you would use it within a task based service or business process.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Entity services tend to be named after the entities they operate on, and must not provide any &#8216;logic&#8217;, just operations on the entity, such as the standard CRUD operations (and their variances). Any logic must be provided in a Task Service, as detailed below.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#943634&quot;&gt;&lt;b&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#943634&quot;&gt;&lt;b&gt;Functional Services&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;It is common to embed complex rules, algorithms, etc. directly within a task based (or even entity) service. This can result in duplicate/similar functionality being re-implemented in other services and not always consistently.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;This logic should be split out as a standalone functional service.&#160; This will ensure it&#8217;s used in a consistent fashion, and also make it simpler to modify (i.e. we only have to do it once), thus increasing the agility of the solution.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Functional services should NOT use entity services (or access an external data source directly). If you have a functional service that does this, then you have a task based service with functional logic embedded within it. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;In some cases this is allowable; but should be first approved by the STL ICC as this could potentially result in duplicate/similar functionality being re-implemented in other services.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#943634&quot;&gt;&lt;b&gt;Task Based Services&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;Task Based services are designed to carry out a specific set of related activities, often within the context of a business process.&#160; By their nature they will often act across one or more entity services, and may also make use of other task based or functional services.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;As a result Task Bases Services are often poor candidates for re-use.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#943634&quot;&gt;&lt;b&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#943634&quot;&gt;&lt;b&gt;Common Services&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;&lt;ol&gt;&lt;li&gt;&lt;br /&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;&lt;/li&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/ol&gt;Common Services are application agnostic.&#160; For example user notification, audit, logging; these are likely to be re-used by multiple applications within our infrastructure.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Whilst these are task based in nature, they tend to provide technical services, which are strong candidates for re-use. When such a service is required, the STL ICC should be consulted for details on whether such a service already exists (or is under development).&lt;br /&gt;&lt;/p&gt;&lt;p&gt;If a required service does not exist, then the STL ICC should be consulted for guidance on how to implement the service.&lt;br /&gt;&lt;/p&gt;</div>
+
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+		</ul>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isDimension:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+			<tr>
+				<td width="30%" class="TableRow">isExternal:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
+<div class="pageFooter"></div>
+ 
+</body>
+</html>

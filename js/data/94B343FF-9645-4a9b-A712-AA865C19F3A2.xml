@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "«domain» State Trustees Limited", "EARoot/EA1.htm", "32.png", "", "", "{1EDF1931-57CD-4430-9950-630479244F9E}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Business Process Model", "EARoot/EA2.htm", "30.png", "", "", "{00D8521F-21B7-4198-9EE9-88DD125BFEF9}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Conceptual Component Architecture", "EARoot/EA3.htm", "32.png", "", "", "{66C34912-C89F-412d-A31D-CA3F7B8176C5}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Organisation Chart", "EARoot/EA4.htm", "34.png", "", "", "{DDEA613F-3E53-4682-8CF4-DC2451A9F49A}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Use Case Model", "EARoot/EA5.htm", "29.png", "", "", "{BCA40FF1-4257-4823-BCCB-F069744594A5}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Requirements Model", "EARoot/EA6.htm", "34.png", "", "", "{EE5D41A7-86E4-42ad-ABE6-DE90A7C0FE97}", "Package");
+tocTab[tocTab.length] = new Array("0.7", "1", "Service Artifacts", "EARoot/EA7.htm", "31.png", "", "", "{46F64CC0-CC30-4e34-AF95-B14CDB4F3A3C}", "Package");
+tocTab[tocTab.length] = new Array("0.8", "1", "Deployment Model", "EARoot/EA8.htm", "33.png", "", "", "{44477BEE-9729-4c9f-BC80-D10976C59C0E}", "Package");
+tocTab[tocTab.length] = new Array("0.9", "1", "SOA Reference Architecture", "EARoot/EA9.htm", "34.png", "", "", "{D69A759B-8534-416b-983A-3D2AD647A7CE}", "Package");
+tocTab[tocTab.length] = new Array("0.10", "1", "Tasks", "EARoot/EA10.htm", "31.png", "", "", "{5C8BD4EF-9CFB-466c-BB7D-768E1EB0C0B5}", "Package");
+tocTab[tocTab.length] = new Array("0.11", "1", "User Interface View", "EARoot/EA11.htm", "31.png", "", "", "{E6360ADC-20D5-4f48-9784-66B2BB3903A6}", "Package");

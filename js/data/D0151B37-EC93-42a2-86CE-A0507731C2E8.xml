@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.2.15:1", "", "irm.doc.ebo.Form_1.0", "EARoot/EA7/EA2/EA15/EA3280.htm", "175.png", "1824", "0", "", "Logical diagram0","{BACE2515-B5A9-4a14-824A-CC6DD25CD0D9}");
+tocTab[tocTab.length] = new Array("0.7.2.15:2", "", "«XSDcomplexType» BaseDocumentType", "EARoot/EA7/EA2/EA15/EA3282.htm", "5.png", "29799", "0", "", "Class0","{D90D9F11-7DE2-42b5-9A25-F0520AEBED74}");
+tocTab[tocTab.length] = new Array("0.7.2.15:3", "", "«XSDcomplexType» ElementPositionType", "EARoot/EA7/EA2/EA15/EA3283.htm", "5.png", "29800", "0", "", "Class0","{BD5FE592-0E80-41b4-B0E4-52653DF8530C}");
+tocTab[tocTab.length] = new Array("0.7.2.15:4", "", "«XSDcomplexType» FontType", "EARoot/EA7/EA2/EA15/EA3284.htm", "5.png", "29801", "0", "", "Class0","{F777CD29-8478-4981-B1E1-1005E76B9A52}");
+tocTab[tocTab.length] = new Array("0.7.2.15:5", "", "«XSDtopLevelElement» formEBO", "EARoot/EA7/EA2/EA15/EA3285.htm", "5.png", "29803", "0", "", "Class0","{BCDFA8AA-3377-440d-A619-54DEA5BBCBC2}");
+tocTab[tocTab.length] = new Array("0.7.2.15:6", "", "«XSDcomplexType» FormElementListType", "EARoot/EA7/EA2/EA15/EA3286.htm", "5.png", "29805", "0", "", "Class0","{F5B52985-3EE0-4ff6-A293-CFC65ABD628E}");
+tocTab[tocTab.length] = new Array("0.7.2.15:7", "", "«XSDcomplexType» FormElementType", "EARoot/EA7/EA2/EA15/EA3287.htm", "5.png", "29804", "0", "", "Class0","{C1DE656C-5313-44ff-AA24-0DC0F0B59641}");
+tocTab[tocTab.length] = new Array("0.7.2.15:8", "", "«XSDcomplexType» FormMapTemplateType", "EARoot/EA7/EA2/EA15/EA3288.htm", "5.png", "29806", "0", "", "Class0","{F6C9FC14-96C1-4321-8E72-A2A065792632}");
+tocTab[tocTab.length] = new Array("0.7.2.15:9", "", "«XSDcomplexType» FormOverlayType", "EARoot/EA7/EA2/EA15/EA3289.htm", "5.png", "29807", "0", "", "Class0","{F1DFC060-415F-48c0-B7B4-E1D65A262081}");
+tocTab[tocTab.length] = new Array("0.7.2.15:10", "", "«XSDcomplexType» FormType", "EARoot/EA7/EA2/EA15/EA3290.htm", "5.png", "29802", "0", "", "Class0","{3181360C-96D3-4b89-AD6F-3A9146891654}");
+tocTab[tocTab.length] = new Array("0.7.2.15:11", "", "«XSDcomplexType» OverlayElementType", "EARoot/EA7/EA2/EA15/EA3291.htm", "5.png", "29808", "0", "", "Class0","{B56B362B-993E-4bd8-BF8A-819B6D53990E}");
